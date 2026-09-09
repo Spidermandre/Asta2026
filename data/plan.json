@@ -1,0 +1,3090 @@
+{
+ "weeks": [
+  {
+   "materials": {
+    "pulcini": "8 palle di gomma morbide + 6 palloni n.4, 20 cinesini (4 colori), 8 coni, 4 cerchi, 2 ostacoli bassi, 2 porticine",
+    "esordientiB": "12 palloni n.4 (4 morbidi), 24 cinesini, 10 coni, 4 porticine",
+    "esordientiA": "12 palloni n.4 + 4 morbidi, 1 nastro o elastico + 4 paletti, 28 cinesini, 12 coni",
+    "giovanissimiB": "12 palloni n.4/5, 1 nastro + 4 paletti, 30 cinesini, 16 coni, 6 porticine"
+   },
+   "page": 6,
+   "week": 1,
+   "block": "Blocco 1 — DOMINIO E GUIDA DELLA PALLA",
+   "blockDesc": "Si riprendono i fattori tecnico-coordinativi di apertura dei moduli FIGC: guida della palla, controllo, sensibilità con l'attrezzo. Si lavora a piedi scalzi e con palloni morbidi finché il clima lo consente. Priorità al numero di tocchi e alla pulizia del gesto.",
+   "note": "Si lavora a piedi scalzi con palloni morbidi, clima permettendo. Controlla il terreno prima di iniziare e concedi i primi minuti a ritmo lento."
+  },
+  {
+   "materials": {
+    "pulcini": "8 palle morbide + 6 palloni n.4, 24 cinesini (rossi e gialli), 8 coni, 4 cerchi, 2 ostacoli bassi, 2 porticine",
+    "esordientiB": "12 palloni n.4, 24 cinesini, 12 coni, 4 porticine, 12 casacche",
+    "esordientiA": "12 palloni n.4, 1 nastro + 4 paletti, 28 cinesini, 12 coni, 12 casacche",
+    "giovanissimiB": "12 palloni n.4/5, 1 nastro, 30 cinesini, 16 coni, 6 porticine, 12 casacche"
+   },
+   "page": 11,
+   "week": 2,
+   "block": "Blocco 1 — DOMINIO E GUIDA DELLA PALLA",
+   "blockDesc": "Si riprendono i fattori tecnico-coordinativi di apertura dei moduli FIGC: guida della palla, controllo, sensibilità con l'attrezzo. Si lavora a piedi scalzi e con palloni morbidi finché il clima lo consente. Priorità al numero di tocchi e alla pulizia del gesto.",
+   "note": "Si lavora a piedi scalzi con palloni morbidi, clima permettendo. Controlla il terreno prima di iniziare e concedi i primi minuti a ritmo lento."
+  },
+  {
+   "materials": {
+    "pulcini": "12 palloni n.4 (4 morbidi), 24 cinesini, 10 coni, 2 porticine",
+    "esordientiB": "12 palloni n.4, 28 cinesini, 12 coni, 6 porticine",
+    "esordientiA": "12 palloni n.4, 1 nastro + 4 paletti, 28 cinesini, 12 coni, 12 casacche",
+    "giovanissimiB": "12 palloni n.4/5, 1 nastro, 30 cinesini, 16 coni, 6 porticine"
+   },
+   "page": 16,
+   "week": 3,
+   "block": "Blocco 1 — DOMINIO E GUIDA DELLA PALLA",
+   "blockDesc": "Si riprendono i fattori tecnico-coordinativi di apertura dei moduli FIGC: guida della palla, controllo, sensibilità con l'attrezzo. Si lavora a piedi scalzi e con palloni morbidi finché il clima lo consente. Priorità al numero di tocchi e alla pulizia del gesto.",
+   "note": "Si lavora a piedi scalzi con palloni morbidi, clima permettendo. Controlla il terreno prima di iniziare e concedi i primi minuti a ritmo lento."
+  },
+  {
+   "materials": {
+    "pulcini": "12 palloni n.4, 24 cinesini, 10 coni, 8 delimitatori per le «case», 2 porticine",
+    "esordientiB": "12 palloni n.4 di misure e materiali diversi + 4 morbidi, 8 cerchi, 24 cinesini, 10 coni, 4 porticine",
+    "esordientiA": "12 palloni n.4, 1 nastro + 4 paletti, 28 cinesini, 14 coni, 6 porticine, 12 casacche",
+    "giovanissimiB": "12 palloni n.4/5 + 4 morbidi, 1 nastro, 30 cinesini, 16 coni, 6 porticine, 12 casacche"
+   },
+   "page": 21,
+   "week": 4,
+   "block": "Blocco 1 — DOMINIO E GUIDA DELLA PALLA",
+   "blockDesc": "Si riprendono i fattori tecnico-coordinativi di apertura dei moduli FIGC: guida della palla, controllo, sensibilità con l'attrezzo. Si lavora a piedi scalzi e con palloni morbidi finché il clima lo consente. Priorità al numero di tocchi e alla pulizia del gesto.",
+   "note": "Si lavora a piedi scalzi con palloni morbidi, clima permettendo. Controlla il terreno prima di iniziare e concedi i primi minuti a ritmo lento."
+  },
+  {
+   "materials": {
+    "pulcini": "12 palloni n.4, 24 cinesini, 10 coni, 4 porticine, 2 ostacoli bassi",
+    "esordientiB": "12 palloni n.4, 28 cinesini, 12 coni, 4 porticine, 1 porta se disponibile",
+    "esordientiA": "12 palloni n.4, 1 nastro, 28 cinesini, 14 coni, 6 porticine, 12 casacche",
+    "giovanissimiB": "12 palloni n.4/5, 1 nastro + 4 paletti, 30 cinesini, 16 coni, 6 porticine"
+   },
+   "page": 26,
+   "week": 5,
+   "block": "Blocco 2 — TRASMISSIONE, RICEZIONE E CONCLUSIONE",
+   "blockDesc": "I moduli centrali del programma federale: passaggio radente e a parabola, ricezione orientata, palleggio, tiro in porta. Passaggio graduale alle scarpette e al pallone regolamentare.",
+   "note": "Si lavora a piedi scalzi con palloni morbidi, clima permettendo. Controlla il terreno prima di iniziare e concedi i primi minuti a ritmo lento."
+  },
+  {
+   "materials": {
+    "pulcini": "12 palloni n.4, 24 cinesini, 10 coni, 8 paletti (o coni alti), 8 delimitatori",
+    "esordientiB": "12 palloni n.4 di misure diverse, 8 cerchi, 28 cinesini, 12 coni, 4 porticine",
+    "esordientiA": "12 palloni n.4, 1 nastro + 4 paletti, 28 cinesini, 14 coni, 6 porticine",
+    "giovanissimiB": "12 palloni n.4/5, 30 cinesini, 16 coni, 8 porticine, 12 casacche"
+   },
+   "page": 31,
+   "week": 6,
+   "block": "Blocco 2 — TRASMISSIONE, RICEZIONE E CONCLUSIONE",
+   "blockDesc": "I moduli centrali del programma federale: passaggio radente e a parabola, ricezione orientata, palleggio, tiro in porta. Passaggio graduale alle scarpette e al pallone regolamentare.",
+   "note": "Passaggio graduale alle scarpette e al pallone regolamentare: mantieni almeno un esercizio a piedi scalzi per seduta finché la temperatura lo consente."
+  },
+  {
+   "materials": {
+    "pulcini": "12 palloni n.4, 24 cinesini, 12 coni, 8 delimitatori, 2 porticine",
+    "esordientiB": "12 palloni n.4, 28 cinesini, 12 coni, 6 porticine, 2 sponde o compagni fissi",
+    "esordientiA": "12 palloni n.4 + 4 morbidi, 1 nastro + 4 paletti, 28 cinesini, 14 coni, 6 porticine",
+    "giovanissimiB": "12 palloni n.4/5, 1 nastro + 4 paletti, 30 cinesini, 16 coni, 8 porticine, funicelle"
+   },
+   "page": 36,
+   "week": 7,
+   "block": "Blocco 2 — TRASMISSIONE, RICEZIONE E CONCLUSIONE",
+   "blockDesc": "I moduli centrali del programma federale: passaggio radente e a parabola, ricezione orientata, palleggio, tiro in porta. Passaggio graduale alle scarpette e al pallone regolamentare.",
+   "note": "Passaggio graduale alle scarpette e al pallone regolamentare: mantieni almeno un esercizio a piedi scalzi per seduta finché la temperatura lo consente."
+  },
+  {
+   "materials": {
+    "pulcini": "12 palloni n.4, 24 cinesini, 12 coni, 8 delimitatori",
+    "esordientiB": "12 palloni n.4, 28 cinesini, 12 coni, 6 porticine, 12 casacche",
+    "esordientiA": "12 palloni n.4, 1 nastro, 28 cinesini, 14 coni, 6 porticine, 12 casacche",
+    "giovanissimiB": "12 palloni n.4/5, 1 nastro, 30 cinesini, 16 coni, 8 porticine, funicelle"
+   },
+   "page": 41,
+   "week": 8,
+   "block": "Blocco 2 — TRASMISSIONE, RICEZIONE E CONCLUSIONE",
+   "blockDesc": "I moduli centrali del programma federale: passaggio radente e a parabola, ricezione orientata, palleggio, tiro in porta. Passaggio graduale alle scarpette e al pallone regolamentare.",
+   "note": "Da qui in avanti la richiesta è la velocità di esecuzione: stesso gesto, meno tempo per eseguirlo. Correggi solo se la qualità crolla."
+  },
+  {
+   "materials": {
+    "pulcini": "12 palloni n.4, 24 cinesini, 12 coni, 2 porticine",
+    "esordientiB": "12 palloni n.4 + 4 morbidi, 1 nastro o elastico + 4 paletti, 28 cinesini, 12 coni",
+    "esordientiA": "12 palloni n.4, 1 nastro, 28 cinesini, 14 coni, 6 porticine, 12 casacche",
+    "giovanissimiB": "12 palloni n.4/5, 30 cinesini, 16 coni, 8 porticine"
+   },
+   "page": 46,
+   "week": 9,
+   "block": "Blocco 3 — TECNICA IN SITUAZIONE E VERIFICA",
+   "blockDesc": "I moduli conclusivi: gli stessi gesti eseguiti più velocemente, con un avversario e con meno tempo per decidere. Si chiude con i test tecnici previsti dal programma.",
+   "note": "Da qui in avanti la richiesta è la velocità di esecuzione: stesso gesto, meno tempo per eseguirlo. Correggi solo se la qualità crolla."
+  },
+  {
+   "materials": {
+    "pulcini": "12 palloni n.4, 28 cinesini, 12 coni, 6 porticine, 2 sponde (o due compagni fissi)",
+    "esordientiB": "12 palloni n.4, 1 nastro + 4 paletti, 28 cinesini, 12 coni, 12 casacche",
+    "esordientiA": "12 palloni n.4 + 4 morbidi, 1 nastro + 4 paletti, 30 cinesini, 14 coni, 6 porticine",
+    "giovanissimiB": "12 palloni n.4/5, 1 nastro, 30 cinesini, 16 coni, 8 porticine"
+   },
+   "page": 51,
+   "week": 10,
+   "block": "Blocco 3 — TECNICA IN SITUAZIONE E VERIFICA",
+   "blockDesc": "I moduli conclusivi: gli stessi gesti eseguiti più velocemente, con un avversario e con meno tempo per decidere. Si chiude con i test tecnici previsti dal programma.",
+   "note": "Da qui in avanti la richiesta è la velocità di esecuzione: stesso gesto, meno tempo per eseguirlo. Correggi solo se la qualità crolla."
+  },
+  {
+   "materials": {
+    "pulcini": "12 palloni n.4, 28 cinesini, 12 coni, 4 porticine",
+    "esordientiB": "12 palloni n.4, 1 nastro + 4 paletti, 28 cinesini, 12 coni, 6 porticine, 12 casacche",
+    "esordientiA": "12 palloni n.4, 30 cinesini, 14 coni, 6 porticine, 12 casacche",
+    "giovanissimiB": "12 palloni n.4/5, 1 nastro, 30 cinesini, 16 coni, 8 porticine, 12 casacche"
+   },
+   "page": 56,
+   "week": 11,
+   "block": "Blocco 3 — TECNICA IN SITUAZIONE E VERIFICA",
+   "blockDesc": "I moduli conclusivi: gli stessi gesti eseguiti più velocemente, con un avversario e con meno tempo per decidere. Si chiude con i test tecnici previsti dal programma.",
+   "note": "Da qui in avanti la richiesta è la velocità di esecuzione: stesso gesto, meno tempo per eseguirlo. Correggi solo se la qualità crolla."
+  },
+  {
+   "materials": {
+    "pulcini": "12 palloni n.4 + 4 morbidi, 28 cinesini, 12 coni, 6 porticine, cronometro e taccuino",
+    "esordientiB": "12 palloni n.4 + 4 morbidi, 1 nastro, 30 cinesini, 14 coni, 6 porticine, cronometro e taccuino",
+    "esordientiA": "12 palloni n.4, 30 cinesini, 16 coni, 8 porticine, cronometro e taccuino",
+    "giovanissimiB": "12 palloni n.4/5, 1 nastro, 32 cinesini, 18 coni, 8 porticine, cronometro e taccuino"
+   },
+   "page": 61,
+   "week": 12,
+   "block": "Blocco 3 — TECNICA IN SITUAZIONE E VERIFICA",
+   "blockDesc": "I moduli conclusivi: gli stessi gesti eseguiti più velocemente, con un avversario e con meno tempo per decidere. Si chiude con i test tecnici previsti dal programma.",
+   "note": "Settimana di verifica. Porta cronometro e taccuino: si ripetono le prove della settimana 1 e si compila la griglia di valutazione in fondo al documento."
+  }
+ ],
+ "sessions": [
+  {
+   "cat": "pulcini",
+   "catName": "Pulcini",
+   "year": "2016",
+   "day": "Lunedì",
+   "week": 1,
+   "page": 7,
+   "title": "Guida della palla: primo contatto e sensibilità",
+   "ref": "FIGC-SGS · Modulo 1 · Lezione 1 «La scoperta» — tecnico-coordinativo: correre per guidare la palla; fisico-motorio: rapidità e capacità di reazione",
+   "objective": "Alla fine della seduta il bambino conduce la palla lungo un percorso vario controllandola con l'interno del piede e conclude in porticina.",
+   "motor": "Capacità di reazione a uno stimolo visivo e verbale; equilibrio a piede nudo.",
+   "materials": "8 palle di gomma morbide + 6 palloni n.4, 20 cinesini (4 colori), 8 coni, 4 cerchi, 2 ostacoli bassi, 2 porticine",
+   "closing": "È la prima seduta: clima sereno, molte prove, nessuna correzione severa. I bambini devono avere voglia di tornare lunedì prossimo.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Percorso motorio",
+     "minutes": 5,
+     "desc": "Percorso breve con attrezzi diversi: tre coni da superare a serpentina, un ostacolo basso sotto cui far passare la palla scavalcandolo, due cerchi in cui appoggiare i piedi. La palla si controlla con l'interno del piede. Al termine si conclude nella porticina. File di massimo tre bambini: si riparte appena il compagno è a metà percorso.",
+     "variants": "Percorso con cambi di direzione destra/sinistra e avanti/indietro; distanze variabili fra gli attrezzi.",
+     "error": "Saltare gli attrezzi per andare veloce: qui conta la qualità del contatto con la palla.",
+     "behaviours": [
+      "Tocco a ogni passo: la palla resta a portata di piede",
+      "Il rapporto con la palla cambia in continuazione: è questo che allena la sensibilità",
+      "La conclusione è la parte che motiva: non toglierla mai"
+     ],
+     "caption": "Guida fra gli attrezzi e conclusione",
+     "img": "img/pulcini-w01-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Guida geometrica",
+     "minutes": 5,
+     "desc": "Con i cinesini si disegnano a terra alcune figure geometriche colorate (quadrato, triangolo, cerchio, rettangolo), in numero maggiore rispetto ai bambini. Tutti conducono la palla nello spazio; al segnale ciascuno entra in conduzione dentro una figura libera e ferma la palla. Chi resta fuori riparte e riprova al segnale successivo.",
+     "variants": "Il colore stabilisce la sequenza delle figure da occupare (giallo, verde, rosso, blu).",
+     "error": "Puntare alla figura più vicina senza guardare: si finisce in due sulla stessa.",
+     "behaviours": [
+      "Guardare fuori dalla palla per vedere quale figura è ancora libera",
+      "Figure diverse fanno percepire spazi diversi: è l'obiettivo dell'esercizio",
+      "Si entra conducendo, non calciando la palla dentro"
+     ],
+     "caption": "Occupare la figura libera in conduzione",
+     "img": "img/pulcini-w01-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Rapidità con la palla",
+     "minutes": 5,
+     "desc": "Ogni bambino parte al segnale dell'istruttore e completa una navetta di 5 m per due, fermando la palla di suola sul cinesino centrale al ritorno. Serie brevi con recupero completo: la rapidità si allena da riposati.",
+     "variants": "Cambiare la posizione di partenza (seduti, di spalle) e il tipo di segnale.",
+     "error": "Trasformarla in una corsa continua: serve recupero fra una partenza e l'altra.",
+     "behaviours": [
+      "Partenza esplosiva sul segnale, non prima",
+      "Frenata con il corpo basso e arresto pulito di suola",
+      "Poche ripetizioni ben fatte valgono più di tante affrettate"
+     ],
+     "caption": "Navetta a comando",
+     "img": "img/pulcini-w01-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiB",
+   "catName": "Esordienti B",
+   "year": "2015",
+   "day": "Lunedì",
+   "week": 1,
+   "page": 8,
+   "title": "Ricezione di palla a parabola e scelta del tempo di passaggio",
+   "ref": "FIGC-SGS · Pulcini · Modulo 5 · Lezione 13 «Passa la palla al momento giusto» — ricezione di palla a parabola; trasmissione radente e frontale",
+   "objective": "Alla fine della seduta il ragazzo controlla una palla che arriva dall'alto e sceglie il momento giusto per trasmetterla.",
+   "motor": "Capacità spazio-temporale riferita a una palla a parabola.",
+   "materials": "12 palloni n.4 (4 morbidi), 24 cinesini, 10 coni, 4 porticine",
+   "closing": "Il concetto della seduta è il tempo: non basta passare bene, bisogna passare al momento giusto.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Palla a parabola",
+     "minutes": 5,
+     "desc": "Ognuno con la propria palla nello spazio libero. Si lancia la palla in alto con le mani, la si riprende, la si mette a terra, la si conduce per qualche metro e la si scambia con un compagno. Poi si sostituisce la presa con un controllo di piede dopo un rimbalzo.",
+     "variants": "Controllo dopo un rimbalzo (versione semplificata); controllo con parti diverse del corpo; passaggio finale con parti diverse del piede.",
+     "error": "Restare rigidi: la palla rimbalza via a tre metri.",
+     "behaviours": [
+      "Andare sotto la palla, non aspettarla ferma",
+      "Il controllo cede all'indietro nell'istante del contatto",
+      "Dopo il controllo la palla deve restare a un passo"
+     ],
+     "caption": "Lancio, controllo e scambio",
+     "img": "img/esordientiB-w01-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Passaggio tra due fuochi",
+     "minutes": 5,
+     "desc": "I ragazzi si passano la palla a coppie, di interno piede, mentre un altro compagno conduce la propria palla nello stesso spazio cercando di non farsi colpire. Chi passa deve scegliere il momento giusto e dosare la forza; chi conduce varia il ritmo per evitare i palloni. Poi si cambiano i ruoli.",
+     "variants": "Passaggio con parti diverse del piede; gara, vince chi effettua più guide senza essere colpito; il gioco si conclude con un tiro in porta.",
+     "error": "Passare a caso senza guardare dove si trova chi conduce.",
+     "behaviours": [
+      "Il tempo del passaggio conta quanto la sua precisione",
+      "Chi conduce varia il ritmo, non solo la direzione",
+      "Passaggio rasoterra e misurato"
+     ],
+     "caption": "Trasmettere evitando chi conduce",
+     "img": "img/esordientiB-w01-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Scegli l'angolo",
+     "minutes": 5,
+     "desc": "Due ragazzi si passano la palla in un dai e ricevi. Chi restituisce la palla sceglie in quale direzione posizionarsi, verso i coni di destra o quelli di sinistra; l'altro gli restituisce la palla di prima. Con la guida si torna poi alla posizione di partenza a ruoli invertiti.",
+     "variants": "Passaggio con parti diverse del piede; coni posizionati in profondità per il passaggio verticale; chi restituisce viene incontro (sponda).",
+     "error": "Muoversi dopo aver ricevuto invece che prima.",
+     "behaviours": [
+      "La scelta va fatta prima che la palla arrivi",
+      "Il passaggio di ritorno è di prima: serve appoggio pronto",
+      "Guardare il compagno mentre si muove"
+     ],
+     "caption": "Dai e ricevi con scelta della direzione",
+     "img": "img/esordientiB-w01-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiA",
+   "catName": "Esordienti A",
+   "year": "2014",
+   "day": "Martedì",
+   "week": 1,
+   "page": 9,
+   "title": "Tecnica individuale e calcio al volo",
+   "ref": "FIGC-SGS · Modulo 1 · Lezione 1 «Giochiamo a calcio tennis» — tecnico-coordinativo: tecnica individuale e sensibilità neuromuscolare; colpire la palla al volo",
+   "objective": "Alla fine della seduta il ragazzo colpisce la palla al volo dosando la forza e calcia sopra e sotto il nastro con il gesto corretto.",
+   "motor": "Sensibilità neuromuscolare; dosaggio della forza nel gesto.",
+   "materials": "12 palloni n.4 + 4 morbidi, 1 nastro o elastico + 4 paletti, 28 cinesini, 12 coni",
+   "closing": "Monta il nastro prima che i ragazzi arrivino: il calcio tennis li fa cominciare da soli.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Attività di sensibilizzazione con la palla",
+     "minutes": 5,
+     "desc": "Ogni ragazzo con il proprio pallone: tecnica individuale, guida con superfici diverse, palleggi. Si ricerca la sensibilità senso-motoria e il giusto dosaggio neuromuscolare variando ritmo, ampiezza e superficie di contatto. È la fase di richiamo delle abilità già strutturate negli anni Pulcini.",
+     "variants": "Guide su base ritmica; guida, finta e dribbling; esercitazioni a due o tre giocatori.",
+     "error": "Ripetere sempre i due gesti che riescono già bene.",
+     "behaviours": [
+      "Un pallone a testa: il numero di tocchi è l'obiettivo",
+      "Si alternano gesti noti e gesti nuovi",
+      "Ritmo variabile: lento per capire, veloce per consolidare"
+     ],
+     "caption": "Rapporto palla-giocatore 1 a 1",
+     "img": "img/esordientiA-w01-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Calcio tennis",
+     "minutes": 5,
+     "desc": "Si gioca 3 contro 3 in circa 16 x 10 m divisi da un nastro. Le squadre mandano la palla nel campo avversario impedendo che faccia due rimbalzi consecutivi. Un rimbalzo consentito prima di ogni tocco, massimo tre tocchi per squadra, ogni tocco a un giocatore diverso.",
+     "variants": "Rotazione dei giocatori a ogni cambio palla; ogni tocco eseguito da un giocatore diverso.",
+     "error": "Colpire di potenza: la palla esce e il gioco si ferma.",
+     "behaviours": [
+      "Leggere la traiettoria e andare sotto la palla in anticipo",
+      "Tocco dosato: serve mandarla, non spararla",
+      "Battuta semplice, altrimenti si ripete"
+     ],
+     "caption": "3 contro 3 sopra il nastro",
+     "img": "img/esordientiA-w01-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Calciare sopra e sotto il nastro",
+     "minutes": 5,
+     "desc": "Esercizio a coppie con palla ferma: si calcia e si riceve facendo passare la palla sopra il nastro con traiettoria a parabola (interno-collo) oppure sotto, rasoterra (collo del piede). Si alternano le due modalità curando la parte analitica del gesto, sia del calciare sia del ricevere.",
+     "variants": "Calciare con il piede destro e con il sinistro; calciare con palla in movimento.",
+     "error": "Cercare la potenza invece della traiettoria richiesta.",
+     "behaviours": [
+      "Sopra: si colpisce sotto la palla, piede aperto",
+      "Sotto: contatto pieno al centro, caviglia bloccata",
+      "Il gesto si corregge adesso, con la palla ferma"
+     ],
+     "caption": "Interno-collo a parabola e collo rasoterra",
+     "img": "img/esordientiA-w01-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "giovanissimiB",
+   "catName": "Giovanissimi B",
+   "year": "2013",
+   "day": "Martedì",
+   "week": 1,
+   "page": 10,
+   "title": "Tiro in porta con palla in movimento",
+   "ref": "FIGC-SGS · Esordienti · Modulo 5 · Lezione 13 «Gioca a rombo e tira in porta» — colpire per tirare; frequenza dei movimenti con la palla",
+   "objective": "Alla fine della seduta il ragazzo si inserisce, controlla e conclude con palla in movimento senza fermare l'azione.",
+   "motor": "Frequenza dei movimenti e rapidità; sensibilizzazione ritmica.",
+   "materials": "12 palloni n.4/5, 1 nastro + 4 paletti, 30 cinesini, 16 coni, 6 porticine",
+   "closing": "Prima seduta del ciclo: ricorda che a questa età la velocità di esecuzione è l'indicatore principale del livello tecnico.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Calcio tennis al volo",
+     "minutes": 5,
+     "desc": "Calcio tennis 3 contro 3 con la regola dei colpi al volo dopo il primo rimbalzo. Ogni colpo va giocato da un giocatore diverso, la battuta è semplice e si ruotano le posizioni a ogni cambio di palla. Serve a sollecitare la capacità di colpire al volo e di anticipare la traiettoria.",
+     "variants": "Calciare solo di interno piede; solo con il destro o solo con il sinistro.",
+     "error": "Cercare il punto anziché lo scambio lungo.",
+     "behaviours": [
+      "Leggere presto dove cadrà la palla e posizionarsi sotto",
+      "Dosaggio della forza: il colpo al volo si controlla, non si spara",
+      "Rotazione continua"
+     ],
+     "caption": "Attivazione percettiva e anticipazione",
+     "img": "img/giovanissimiB-w01-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Circuito con la palla",
+     "minutes": 5,
+     "desc": "Circuito in tre zone da 4-5 m: nella prima skip rapido e salto per un colpo di testa in avanzamento; nella seconda skip rapido e colpo di interno piede; nella terza scatto e cambio di direzione. Si esegue tutto in andata e ritorno per un paio di volte, poi si cambia compito con i compagni che passano la palla.",
+     "variants": "Alternare allo skip la corsa calciata dietro; usare il tamburello per scandire il ritmo.",
+     "error": "Eseguire tutto di corsa perdendo la qualità dei gesti.",
+     "behaviours": [
+      "Appoggi bassi e rapidi, poi gesto tecnico pulito",
+      "Il colpo di testa arriva in avanzamento, non da fermi",
+      "Ogni zona ha un obiettivo diverso: si cambia compito, non solo posizione"
+     ],
+     "caption": "Tre zone di lavoro coordinativo",
+     "img": "img/giovanissimiB-w01-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Mi inserisco e tiro",
+     "minutes": 5,
+     "desc": "Il primo giocatore gioca a muro con un compagno; la palla ritorna e lui fa inserire un terzo che controlla e va al tiro. Lo stesso avviene dal lato opposto, con rotazione dei compiti a ogni ripetizione.",
+     "variants": "Chi riceve allarga la palla direttamente; chi riceve va al cross basso per un compagno in arrivo.",
+     "error": "Inserirsi troppo presto e superare la palla.",
+     "behaviours": [
+      "Chi fa da muro gioca di prima",
+      "Chi si inserisce arriva lanciato e conclude entro due tocchi",
+      "Il passaggio va davanti a chi corre"
+     ],
+     "caption": "Gioco a muro e conclusione dell'inserimento",
+     "img": "img/giovanissimiB-w01-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "pulcini",
+   "catName": "Pulcini",
+   "year": "2016",
+   "day": "Lunedì",
+   "week": 2,
+   "page": 12,
+   "title": "Guida della palla con le diverse superfici del piede",
+   "ref": "FIGC-SGS · Modulo 1 · Lezione 2 «Alla ricerca dello spazio libero» — conduzione in uno spazio libero, orientamento e percezione visiva",
+   "objective": "Alla fine della seduta il bambino cambia superficie di contatto (interno o esterno) in base a un segnale, mantenendo la palla vicina.",
+   "motor": "Percezione visiva e orientamento nello spazio durante la conduzione.",
+   "materials": "8 palle morbide + 6 palloni n.4, 24 cinesini (rossi e gialli), 8 coni, 4 cerchi, 2 ostacoli bassi, 2 porticine",
+   "closing": "Domanda di chiusura: «Quante volte avete guardato il campo invece della palla?»",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Il traffico «guidato»",
+     "minutes": 5,
+     "desc": "Nello spazio si distribuiscono cinesini rossi e gialli, in numero maggiore dei bambini. Tutti conducono la propria palla: raggiunto un cinesino rosso la palla va guidata di esterno del piede, raggiunto un giallo di interno. Si prosegue cercando cinesini sempre diversi.",
+     "variants": "Dopo quattro cambi di piede si va a concludere in porticina; a tempo, chi completa per primo il percorso.",
+     "error": "Usare sempre l'interno perché è più comodo: l'esterno va preteso.",
+     "behaviours": [
+      "La testa si alza per scegliere il prossimo cinesino",
+      "Cambio di superficie pulito: si rallenta un attimo e si riparte",
+      "Palla mai più lontana di un passo"
+     ],
+     "caption": "Conduzione con cambio di superficie al colore",
+     "img": "img/pulcini-w02-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Il traffico «disturbato»",
+     "minutes": 5,
+     "desc": "Gruppi di quattro bambini conducono la palla in uno spazio ristretto. A turno uno di loro prova ad allontanare con il piede la palla di un compagno, senza però perdere il controllo della propria. Chi si vede allontanare la palla la recupera e rientra subito in gioco.",
+     "variants": "Guida libera e, al segnale, conduzione dentro la propria «casa»; poi si aumenta il numero delle case.",
+     "error": "Abbandonare la propria palla per rincorrere quella degli altri.",
+     "behaviours": [
+      "Proteggere la palla mettendo il corpo fra questa e il compagno",
+      "Chi disturba deve comunque tenere la sua palla: è la vera difficoltà",
+      "Tocchi corti e sguardo alto"
+     ],
+     "caption": "Conduzione e protezione della palla",
+     "img": "img/pulcini-w02-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Percorso motorio (versione breve)",
+     "minutes": 5,
+     "desc": "Versione ridotta del percorso della settimana scorsa: serpentina fra i coni, palla sotto l'ostacolo basso mentre il bambino lo scavalca, appoggi nei cerchi e conclusione. Si aggiunge un rotolamento a terra prima della conclusione.",
+     "variants": "Guida con parti diverse del piede; distanze fra gli attrezzi aumentate o ridotte.",
+     "error": "Eseguire il percorso di corsa dimenticando la palla.",
+     "behaviours": [
+      "Combinare azioni motorie diverse mantenendo il controllo della palla",
+      "Dopo il rotolamento ci si rialza e si riprende la guida senza fretta",
+      "Fluidità prima della velocità"
+     ],
+     "caption": "Coordinazione e guida",
+     "img": "img/pulcini-w02-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiB",
+   "catName": "Esordienti B",
+   "year": "2015",
+   "day": "Lunedì",
+   "week": 2,
+   "page": 13,
+   "title": "Trasmissione con pressione temporale",
+   "ref": "FIGC-SGS · Pulcini · Modulo 5 · Lezione 14 «Scruta lo spazio, dai la palla, vai» — trasmissione e ricezione con palla frontale; capacità di smarcarsi",
+   "objective": "Alla fine della seduta il ragazzo trasmette con precisione anche quando ha poco tempo, e si muove per ricevere.",
+   "motor": "Rapidità di esecuzione; mobilità articolare con la palla.",
+   "materials": "12 palloni n.4, 24 cinesini, 12 coni, 4 porticine, 12 casacche",
+   "closing": "Osserva chi si muove per ricevere prima ancora che la palla parta: è il segnale che il concetto è passato.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Gara di passaggi",
+     "minutes": 5,
+     "desc": "Due squadre si confrontano in una gara di passaggi. Ogni squadra si dispone su un quadrato con un giocatore per angolo. La palla viene trasmessa frontalmente e rasoterra. Vince chi effettua per primo due giri completi del quadrato.",
+     "variants": "I giri devono essere effettuati nei due sensi; passaggi con entrambi i piedi; al segnale dell'istruttore cambia la direzione dei passaggi.",
+     "error": "Calciare forte per fare prima: la palla diventa ingiocabile.",
+     "behaviours": [
+      "Precisione anche sotto pressione temporale",
+      "Chi riceve muove i piedi prima dell'arrivo della palla",
+      "Passaggio sul piede giusto del compagno"
+     ],
+     "caption": "Due squadre a confronto nel quadrato",
+     "img": "img/esordientiB-w02-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Passa la frontiera",
+     "minutes": 5,
+     "desc": "I giocatori in possesso di palla conducono nello spazio difeso da un compagno e, prima della zona neutra, effettuano un passaggio ai compagni in attesa oltre la linea. Chi riceve controlla e ricomincia dall'altra parte. Rotazione dei compiti.",
+     "variants": "Chi riceve la palla tira in porticina alle sue spalle; tiro con il piede meno abile; palloni di peso e misura diversi.",
+     "error": "Passare da troppo lontano senza aver superato nessuno.",
+     "behaviours": [
+      "Si conduce per attirare, poi si passa",
+      "Chi attende si sposta per offrire la linea di passaggio",
+      "Passaggio rasoterra sotto la pressione"
+     ],
+     "caption": "Trasmissione oltre la zona neutra",
+     "img": "img/esordientiB-w02-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Attività di sensibilizzazione con la palla",
+     "minutes": 5,
+     "desc": "Ognuno con un pallone: rullata interno-interno, tocchi di suola, palla condotta attorno al corpo, allungamenti eseguiti usando la palla come riferimento. Momento calmo, utile a recuperare concentrazione fra due esercizi intensi.",
+     "variants": "A coppie con una palla sola; due gruppi che si scambiano lo spazio.",
+     "error": "Usarlo come pausa senza compito: va condotto con voce calma ma presente.",
+     "behaviours": [
+      "Movimenti ampi, respirazione tranquilla",
+      "La palla è un attrezzo, non solo un pallone",
+      "Si ascolta e si esegue con cura"
+     ],
+     "caption": "Mobilità articolare con la palla",
+     "img": "img/esordientiB-w02-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiA",
+   "catName": "Esordienti A",
+   "year": "2014",
+   "day": "Martedì",
+   "week": 2,
+   "page": 14,
+   "title": "Passaggio e ricezione con pressione",
+   "ref": "FIGC-SGS · Modulo 1 · Lezione 2 «Il gioco a muro» — passaggio e ricezione con pressione; esecuzione tecnica dentro un tempo ritmico",
+   "objective": "Alla fine della seduta il ragazzo esegue il gesto tecnico rispettando una cadenza ritmica e riceve in movimento offrendo due soluzioni al compagno.",
+   "motor": "Coordinazione ritmica; capacità di reazione.",
+   "materials": "12 palloni n.4, 1 nastro + 4 paletti, 28 cinesini, 12 coni, 12 casacche",
+   "closing": "Il tema del ritmo torna spesso nel programma Esordienti: usalo anche nelle correzioni.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Andature calcistiche su base ritmica",
+     "minutes": 5,
+     "desc": "Guida della palla con varie parti del piede eseguita dentro un tempo ritmico scandito dall'istruttore (battito di mani o tamburello). Si alternano andature: skip basso, corsa calciata dietro, passi laterali, sempre con la palla condotta a fianco.",
+     "variants": "Cambiare tempo del ritmo durante l'esecuzione; alternare skip e corsa calciata.",
+     "error": "Perdere il ritmo per non perdere la palla: si rallenta il ritmo, non si abbandona.",
+     "behaviours": [
+      "Il gesto tecnico entra dentro il ritmo, non lo insegue",
+      "Appoggi sull'avampiede, braccia attive",
+      "La palla resta a fianco, non davanti"
+     ],
+     "caption": "Guida della palla a tempo",
+     "img": "img/esordientiA-w02-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Calcio tennis",
+     "minutes": 5,
+     "desc": "Stesso gioco della lezione precedente, con la variante che dopo il primo rimbalzo si eseguono almeno due colpi al volo. Ogni colpo va giocato da un giocatore diverso e la battuta resta semplice.",
+     "variants": "Variare l'altezza del nastro; tocchi obbligati di interno piede.",
+     "error": "Insistere sul volo se il gruppo non è pronto: si torna al rimbalzo.",
+     "behaviours": [
+      "Il volo richiede di posizionarsi in anticipo",
+      "Dosaggio ancora più fine della forza",
+      "Rotazione dei ruoli a ogni cambio palla"
+     ],
+     "caption": "Sollecitazione percettiva iniziale",
+     "img": "img/esordientiA-w02-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Quadrato di smarcamento",
+     "minutes": 5,
+     "desc": "Chi ha la palla deve sempre avere due possibili soluzioni di passaggio: i compagni si muovono sui lati del quadrato per offrirle. La difesa è attiva con due difensori che si coordinano, uno che va sulla palla e uno che temporeggia.",
+     "variants": "Ricezione a seguire; passaggio obbligato entro cinque secondi.",
+     "error": "Muoversi solo quando la palla è già partita.",
+     "behaviours": [
+      "Il movimento per ricevere avviene prima che il compagno guardi",
+      "Passaggio di precisione sotto la pressione",
+      "Chi riceve orienta il primo tocco lontano dal difensore"
+     ],
+     "caption": "Ricevere in movimento sotto pressione",
+     "img": "img/esordientiA-w02-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "giovanissimiB",
+   "catName": "Giovanissimi B",
+   "year": "2013",
+   "day": "Martedì",
+   "week": 2,
+   "page": 15,
+   "title": "Guida della palla e repertorio di finte",
+   "ref": "FIGC-SGS · Esordienti · Modulo 5 · Lezione 14 «Fai la finta e supera l'avversario» — tecnica individuale: guida e finte",
+   "objective": "Alla fine della seduta il ragazzo dispone di almeno tre finte diverse e le esegue con un cambio di ritmo riconoscibile.",
+   "motor": "Automatizzazione del gesto tecnico; frequenza dei movimenti.",
+   "materials": "12 palloni n.4/5, 1 nastro, 30 cinesini, 16 coni, 6 porticine, 12 casacche",
+   "closing": "Chiedi a ciascuno di scegliere la propria finta preferita: la useranno nel 1 contro 1 delle settimane successive.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Calcio tennis al volo",
+     "minutes": 5,
+     "desc": "Cinque minuti di calcio tennis con almeno due colpi al volo per scambio. Attivazione, non gara: si cercano scambi lunghi e battute semplici.",
+     "variants": "Colpire solo di interno piede.",
+     "error": "Iniziare con intensità agonistica eccessiva.",
+     "behaviours": [
+      "Scambi lunghi, non punti rapidi",
+      "Ogni tocco a un giocatore diverso",
+      "Attenzione alta dal primo minuto"
+     ],
+     "caption": "Attivazione percettiva",
+     "img": "img/giovanissimiB-w02-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Tecnica individuale: guide e finte",
+     "minutes": 5,
+     "desc": "Esercitazioni a gruppi di tre con una palla ciascuno. Esempio: il primo guida ed esegue una finta per rientrare, il secondo difende in modo semi-attivo, il terzo riceve la palla passata dal primo, che a sua volta va a difendere sul terzo, e così via in continuità. Repertorio: rullaggio con la pianta, rullaggio per cambio di direzione, finta e spostamento della palla con l'esterno, finta e rientro con l'interno, finta a forbice e guida con il piede opposto.",
+     "variants": "Treccia; treccia con pallonetto; guida, finte e passaggio finale.",
+     "error": "Eseguire la finta in modo teatrale e lento: sembra bella ma non serve.",
+     "behaviours": [
+      "Ogni finta si chiude con un cambio di ritmo di due passi",
+      "Il gesto si esegue a un metro e mezzo dall'avversario",
+      "Il difensore semi-attivo dà il riferimento, non contrasta"
+     ],
+     "caption": "Repertorio di guide e finte a gruppi di tre",
+     "img": "img/giovanissimiB-w02-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Circuito con la palla",
+     "minutes": 5,
+     "desc": "Circuito a tre zone: skip e colpo di testa; skip e colpo di interno piede; scatto e cambio di direzione. Andata e ritorno per due volte, poi si cambia compito con i compagni che passano la palla.",
+     "variants": "Usare il tamburello per l'esecuzione a ritmo.",
+     "error": "Fare troppe ripetizioni consecutive.",
+     "behaviours": [
+      "Frequenza alta negli appoggi, precisione nel gesto",
+      "Il colpo di testa arriva in avanzamento",
+      "Cambio di compito ordinato"
+     ],
+     "caption": "Frequenza dei movimenti con gesti tecnici",
+     "img": "img/giovanissimiB-w02-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "pulcini",
+   "catName": "Pulcini",
+   "year": "2016",
+   "day": "Lunedì",
+   "week": 3,
+   "page": 17,
+   "title": "Guida della palla e arresto in una zona precisa",
+   "ref": "FIGC-SGS · Modulo 1 · Lezione 3 «Guida e vai nello spazio» — differenziare corsa con palla e corsa senza palla; arresto in uno spazio definito",
+   "objective": "Alla fine della seduta il bambino sa fermare la palla dentro uno spazio delimitato e distinguere la corsa con la palla da quella senza.",
+   "motor": "Differenziazione fra i due tipi di corsa; visione periferica.",
+   "materials": "12 palloni n.4 (4 morbidi), 24 cinesini, 10 coni, 2 porticine",
+   "closing": "Fai notare chi ha capito la differenza fra correre con la palla e correre senza: è il concetto chiave del modulo 1.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Con palla a tre",
+     "minutes": 5,
+     "desc": "I bambini si dividono in gruppi disposti su due file opposte a 20 m. Al segnale il primo conduce la palla fino a una zona delimitata a metà percorso, ferma lì la palla e prosegue di corsa verso il compagno di fronte. Questo parte senza palla, raggiunge la zona, prende la palla lasciata e la conduce fino alla fila opposta. Vince la squadra che completa il ciclo fermando per prima la palla nella zona.",
+     "variants": "Zona di arresto più stretta; arresto obbligatorio di suola.",
+     "error": "Fermare la palla approssimativamente e ripartire: il punto non è valido.",
+     "behaviours": [
+      "La palla va fermata dentro la zona, non lanciata verso di essa",
+      "Correre senza palla è più veloce: si sente la differenza",
+      "Chi arriva guarda già dove si trova la palla"
+     ],
+     "caption": "Guida, arresto nella zona, corsa",
+     "img": "img/pulcini-w03-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Gara a staffetta a tre gruppi",
+     "minutes": 5,
+     "desc": "Tre gruppi si confrontano in staffetta su 20 m. A metà percorso ci sono due coni da aggirare in conduzione. Le due file opposte partono aggirando i coni da lati diversi, una a destra e una a sinistra, così ogni bambino lavora su entrambe le direzioni.",
+     "variants": "Aumentare il numero di coni; dopo i coni, passaggio rasoterra al compagno di fronte.",
+     "error": "Perdere la palla per correre più forte: il turno va ripetuto.",
+     "behaviours": [
+      "Aggirare stretto, non largo: si passa a un passo dal cono",
+      "Si accelera dopo il cono, non prima",
+      "Il cambio avviene solo quando il compagno ha superato la linea"
+     ],
+     "caption": "Conduzione aggirando i coni",
+     "img": "img/pulcini-w03-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Guida geometrica a gara",
+     "minutes": 5,
+     "desc": "Stessa disposizione della settimana 1, ora sotto forma di gara: si conta quante figure diverse si riesce a occupare in conduzione in 60 secondi, senza usare due volte di fila la stessa. Due manche con conteggio a voce alta.",
+     "variants": "Figure di colore diverso con punteggi diversi.",
+     "error": "Puntare sempre alle stesse due figure vicine.",
+     "behaviours": [
+      "Scegliere la figura libera più vicina è una decisione, non solo una corsa",
+      "Si entra conducendo e si ferma la palla dentro la figura",
+      "Testa alta fra una figura e l'altra"
+     ],
+     "caption": "Occupare tutte le figure",
+     "img": "img/pulcini-w03-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiB",
+   "catName": "Esordienti B",
+   "year": "2015",
+   "day": "Lunedì",
+   "week": 3,
+   "page": 18,
+   "title": "Precisione della trasmissione in diagonale",
+   "ref": "FIGC-SGS · Pulcini · Modulo 5 · Lezione 15 «Passa e ricevi nello spazio» — trasmissione e ricezione radente e diagonale; precisione d'esecuzione",
+   "objective": "Alla fine della seduta il ragazzo trasmette in diagonale con precisione e riceve orientandosi verso la direzione di gioco.",
+   "motor": "Velocità e frequenza dei movimenti; precisione d'esecuzione.",
+   "materials": "12 palloni n.4, 28 cinesini, 12 coni, 6 porticine",
+   "closing": "Chiudi il modulo 5 sulla precisione: la palla giusta è quella che il compagno può giocare subito.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Goal nelle porticine",
+     "minutes": 5,
+     "desc": "Due ragazzi, uno di fronte all'altro a 15 m. A fianco di ciascuno sono collocate due porticine larghe 2 m. Il gioco consiste nel realizzare più gol possibili nelle porticine dell'avversario, che difende intercettando la palla con i piedi.",
+     "variants": "Al momento del tiro chi difende si posiziona di spalle oppure seduto.",
+     "error": "Calciare sempre verso la stessa porticina.",
+     "behaviours": [
+      "Piede d'appoggio puntato verso la porticina scelta",
+      "Palla rasoterra e tesa",
+      "Chi difende resta sui piedi, pronto a spostarsi"
+     ],
+     "caption": "Trasmissione precisa e ricezione orientata",
+     "img": "img/esordientiB-w03-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Colpisci e vinci nel quadrato",
+     "minutes": 5,
+     "desc": "Su quadrati di 10 m, squadre di quattro giocatori divise in coppie con due palloni, disposte ai quattro angoli. Le due coppie eseguono un passaggio in diagonale, ricezione del compagno e guida nell'angolo adiacente. I due passaggi si incrociano: lo scopo è far toccare i due palloni. Vince chi ci riesce più volte in un tempo stabilito.",
+     "variants": "Quadrato più grande per la palla a parabola; passaggi consecutivi in diagonale con cambio di posto al segnale.",
+     "error": "Concentrarsi solo sulla propria palla senza guardare quella dell'altra coppia.",
+     "behaviours": [
+      "Il passaggio in diagonale richiede corpo aperto e piede d'appoggio ruotato",
+      "La forza va dosata: troppo forte, i palloni non si incontrano",
+      "Guida rapida verso l'angolo adiacente"
+     ],
+     "caption": "Passaggi diagonali incrociati",
+     "img": "img/esordientiB-w03-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Passaggio tra due fuochi",
+     "minutes": 5,
+     "desc": "Come nella settimana 2: le coppie si passano la palla mentre un compagno conduce la propria nello stesso spazio cercando di non farsi colpire. Ora la zona è più stretta e le coppie sono più vicine, così il tempo di scelta si riduce.",
+     "variants": "Il gioco si conclude con un tiro in porticina.",
+     "error": "Passare senza guardare: si colpisce sempre lo stesso compagno.",
+     "behaviours": [
+      "Meno spazio significa meno tempo per decidere",
+      "Chi conduce varia il ritmo",
+      "Passaggio dosato, non violento"
+     ],
+     "caption": "Scelta del tempo di passaggio",
+     "img": "img/esordientiB-w03-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiA",
+   "catName": "Esordienti A",
+   "year": "2014",
+   "day": "Martedì",
+   "week": 3,
+   "page": 19,
+   "title": "Passaggio e ricezione nello spazio adiacente",
+   "ref": "FIGC-SGS · Modulo 1 · Lezione 3 «Passa e ricevi in movimento» — passaggio e ricezione, anche al volo; smarcamento prima del passaggio",
+   "objective": "Alla fine della seduta il ragazzo si smarca prima che il passaggio parta e analizza traiettoria e tempo della palla in arrivo.",
+   "motor": "Capacità di reazione e occupazione dello spazio libero.",
+   "materials": "12 palloni n.4, 1 nastro + 4 paletti, 28 cinesini, 12 coni, 12 casacche",
+   "closing": "Frase chiave: «lo smarcamento viene prima del passaggio». Ripetila fino a farla diventare automatica.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Passaggio e ricezione a coppie nello spazio",
+     "minutes": 5,
+     "desc": "A coppie, in due quadrati adiacenti di circa 10 x 15 m. Si eseguono passaggi e ricezioni nelle varie direzioni ricercando precisione e qualità dello smarcamento, che deve avvenire prima del passaggio. La palla viene calciata rasoterra e con forza di interno piede nello spazio del compagno, il quale, in base alla traiettoria, analizza spazio e tempo della ricezione. Dopo la ricezione si ripassa la palla e ci si ridispone al centro.",
+     "variants": "Passaggio a parabola; con gioco a muro.",
+     "error": "Aspettare la palla fermi al centro del proprio quadrato.",
+     "behaviours": [
+      "Prima ci si smarca, poi parte il passaggio",
+      "La palla va nello spazio del compagno, non sui suoi piedi da fermo",
+      "Dopo il passaggio si torna al centro pronti"
+     ],
+     "caption": "Trasmissione fra due quadrati",
+     "img": "img/esordientiA-w03-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Partita con le mani",
+     "minutes": 5,
+     "desc": "In campo ridotto si gioca una partita con le mani: la palla non deve toccare terra, il passaggio si effettua con due mani e con traiettoria orizzontale, è vietato correre con la palla in mano (massimo due secondi) e non è ammesso il contatto. Il punto si realizza colpendo la palla di testa dentro una porticina. Serve a far capire l'occupazione dello spazio libero senza il vincolo tecnico del piede.",
+     "variants": "Passaggio anche a parabola; la palla può toccare terra; si gioca la palla al volo di interno piede.",
+     "error": "Trattenere la palla in mano cercando la giocata perfetta.",
+     "behaviours": [
+      "Si cerca lo spazio libero: qui si vede subito chi lo capisce",
+      "Passaggio rapido, massimo due secondi",
+      "Nessun contatto fisico"
+     ],
+     "caption": "Passaggio e ricezione al volo",
+     "img": "img/esordientiA-w03-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Navetta 8 + 8 metri",
+     "minutes": 5,
+     "desc": "Navetta di 8 m in andata e ritorno, poi si raggiunge una palla posta a lato, la si conduce brevemente e la si passa con precisione a un compagno. Una esecuzione ogni 45-50 secondi, serie brevi con recupero attivo di alcuni minuti.",
+     "variants": "Tiro in porticina al posto del passaggio; il compagno esegue palleggi o saltelli mentre attende.",
+     "error": "Aumentare le ripetizioni: la qualità del gesto crolla subito.",
+     "behaviours": [
+      "La precisione del passaggio non deve calare dopo la corsa",
+      "Frenata e cambio di senso con il corpo basso",
+      "Recupero attivo: si cammina o si palleggia, non ci si siede"
+     ],
+     "caption": "Rapidità e precisione dopo la corsa",
+     "img": "img/esordientiA-w03-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "giovanissimiB",
+   "catName": "Giovanissimi B",
+   "year": "2013",
+   "day": "Martedì",
+   "week": 3,
+   "page": 20,
+   "title": "Tiro in porta con sovrapposizione",
+   "ref": "FIGC-SGS · Esordienti · Modulo 5 · Lezione 15 «Vai, ricevi e fai goal» — tiro in porta e tecnica individuale; passaggio in dai e segui",
+   "objective": "Alla fine della seduta il ragazzo esegue una sovrapposizione, riceve nello spazio e conclude con palla in movimento.",
+   "motor": "Reattività neuromuscolare; precisione e velocità di esecuzione.",
+   "materials": "12 palloni n.4/5, 1 nastro, 30 cinesini, 16 coni, 6 porticine",
+   "closing": "La sovrapposizione va provata lenta prima di metterla a velocità: due minuti spesi bene.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Attività di sensibilizzazione con la palla",
+     "minutes": 5,
+     "desc": "Ogni ragazzo con il proprio pallone: palleggi in forme diverse, guide con superfici diverse, gesti proposti dai ragazzi stessi. È una fase di rinforzo delle abilità tecniche con contenuti vecchi e nuovi, da eseguire con ritmo variabile.",
+     "variants": "Guide su base musicale o ritmica; guida, finta e dribbling; esercitazioni a due o tre.",
+     "error": "Ripetere solo i gesti già riusciti.",
+     "behaviours": [
+      "Un pallone a testa, tanti tocchi",
+      "Si accolgono le proposte dei ragazzi: aumenta il coinvolgimento",
+      "Anche il piede debole, sempre"
+     ],
+     "caption": "Richiamo delle abilità tecniche",
+     "img": "img/giovanissimiB-w03-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Tiro in porta con sovrapposizione",
+     "minutes": 5,
+     "desc": "Due gruppi disposti in due file. Alternandosi si passa la palla a due compagni posti frontalmente a 10 m; chi ha passato esegue la sovrapposizione, riceve il ritorno e va al tiro. Chi ha tirato prende poi il posto del compagno in appoggio.",
+     "variants": "Passando la palla in diagonale; con pressione da dietro del compagno in appoggio.",
+     "error": "Ricevere il ritorno da fermi.",
+     "behaviours": [
+      "La sovrapposizione parte dopo il passaggio",
+      "Il ritorno va nello spazio, davanti a chi corre",
+      "Ultimo passo di appoggio a fianco della palla"
+     ],
+     "caption": "Dai e segui e conclusione",
+     "img": "img/giovanissimiB-w03-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Circuito a coppie con palla",
+     "minutes": 5,
+     "desc": "In uno spazio ridotto, a coppie con una palla: chi non ha la palla esegue esercizi di skip intervallati da passaggi laterali verso il compagno posto oltre un nastro basso, a 10-15 cm da terra. Al termine si effettua uno sprint di 10 m con la palla per entrambi.",
+     "variants": "Skip con quattro appoggi bassi e passaggio di interno sotto il nastro; quattro appoggi alti e giocata al volo di interno; due bassi e due alti con collo piede.",
+     "error": "Trascurare la precisione del passaggio per fare più appoggi.",
+     "behaviours": [
+      "Il gesto tecnico si inserisce fra due serie di appoggi",
+      "Il nastro basso obbliga a tenere la palla rasoterra",
+      "Precisione e velocità insieme"
+     ],
+     "caption": "Skip e gesto tecnico sopra il nastro",
+     "img": "img/giovanissimiB-w03-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "pulcini",
+   "catName": "Pulcini",
+   "year": "2016",
+   "day": "Lunedì",
+   "week": 4,
+   "page": 22,
+   "title": "Guida della palla in regime di velocità",
+   "ref": "FIGC-SGS · Modulo 2 · Lezione 4 «Mantieni il controllo della palla» — conduzione con pressione temporale; fisico-motorio: rapidità e frequenza del gesto",
+   "objective": "Alla fine della seduta il bambino conduce a velocità sostenuta senza allontanare la palla oltre un metro e la porta in una zona precisa al segnale.",
+   "motor": "Rapidità con particolare attenzione alla frequenza del gesto motorio.",
+   "materials": "12 palloni n.4, 24 cinesini, 10 coni, 8 delimitatori per le «case», 2 porticine",
+   "closing": "Da questa seduta introduci l'idea di velocità: stesso gesto, meno tempo, stessa pulizia.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Guida tra i coni",
+     "minutes": 5,
+     "desc": "Un gruppo conduce la palla fra i coni distribuiti nello spazio, controllandola con l'interno del piede. Al segnale dell'istruttore la palla va condotta rapidamente dentro la propria «casa», delimitata da quattro delimitatori a un angolo del campo.",
+     "variants": "Spazio di gioco più ampio; obbligo del piede meno abile; a un segnale cambiano le case.",
+     "error": "Accelerare subito perdendo il controllo: prima si guarda dov'è la casa.",
+     "behaviours": [
+      "Il controllo di interno tiene la palla dentro l'area dei piedi",
+      "Al segnale si cambia ritmo: prima si controlla, poi si accelera",
+      "Nella casa la palla si ferma, non si calcia dentro"
+     ],
+     "caption": "Conduzione controllata e rientro in casa",
+     "img": "img/pulcini-w04-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Corri e porta a casa",
+     "minutes": 5,
+     "desc": "I bambini si dividono in due squadre schierate sui lati del campo. Al centro sono posati tanti palloni quanti sono i bambini. Al segnale tutti corrono a conquistare un pallone e lo conducono nella propria casa. Vince chi arriva per primo.",
+     "variants": "Il pallone va poi riportato al centro; palloni in numero inferiore ai bambini.",
+     "error": "Calciare il pallone verso casa da lontano invece di condurlo.",
+     "behaviours": [
+      "Corsa veloce senza palla, poi tocchi corti appena si conquista il pallone",
+      "Il primo tocco dopo la conquista decide tutto",
+      "Si entra in casa conducendo"
+     ],
+     "caption": "Corsa senza palla, conquista, conduzione",
+     "img": "img/pulcini-w04-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Staffetta 10 m",
+     "minutes": 5,
+     "desc": "Staffetta su 10 metri: si conduce la palla fino al cono, la si ferma di suola e si torna di corsa a dare il cambio. Serie brevi con recupero. È il lavoro fisico-motorio della seduta e va fatto con i bambini freschi.",
+     "variants": "Cambiare la posizione di partenza o il tipo di segnale.",
+     "error": "Fare troppe ripetizioni: la rapidità peggiora appena arriva la stanchezza.",
+     "behaviours": [
+      "Frequenza dei passi alta, palla toccata spesso",
+      "Arresto netto: la palla deve restare ferma per il compagno",
+      "Recupero completo fra una partenza e l'altra"
+     ],
+     "caption": "Sprint in linea con la palla",
+     "img": "img/pulcini-w04-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiB",
+   "catName": "Esordienti B",
+   "year": "2015",
+   "day": "Lunedì",
+   "week": 4,
+   "page": 23,
+   "title": "Propedeutica al palleggio e ricezione orientata",
+   "ref": "FIGC-SGS · Pulcini · Modulo 6 · Lezione 16 «Affidati al compagno» — sensibilizzazione con la palla, ricevere e colpire; propedeutica al palleggio",
+   "objective": "Alla fine della seduta il ragazzo esegue alcuni palleggi consecutivi e riceve un passaggio orientandolo verso la porta.",
+   "motor": "Coordinazione in equilibrio monopodalico.",
+   "materials": "12 palloni n.4 di misure e materiali diversi + 4 morbidi, 8 cerchi, 24 cinesini, 10 coni, 4 porticine",
+   "closing": "Assegna il palleggio come compito da fare a casa: è la proposta «prendi e gioca a casa» del programma federale.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Propedeutica al palleggio",
+     "minutes": 5,
+     "desc": "Con palloni di dimensioni, peso e materiale diversi si sperimentano varie forme di palleggio, aeree e non: lancio-rimbalzo-tocco-presa, due tocchi consecutivi, palleggio di coscia. Si raccolgono anche le proposte dei ragazzi stessi e si provano tutte.",
+     "variants": "Con il solo piede dominante; alternando i due piedi; dopo un rimbalzo a terra.",
+     "error": "Colpire di punta: la palla parte in avanti e la serie si interrompe.",
+     "behaviours": [
+      "Collo del piede, punta verso il basso, ginocchio sopra la palla",
+      "La palla deve salire verticale, non in avanti",
+      "Palloni diversi danno sensazioni diverse: è voluto"
+     ],
+     "caption": "Forme diverse di palleggio",
+     "img": "img/esordientiB-w04-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Ricevi e fai goal",
+     "minutes": 5,
+     "desc": "Il ragazzo riceve la palla da un compagno, la conduce per qualche metro e conclude in porta di collo piede, senza portiere. Si contano i gol e si ruotano i compiti a ogni ripetizione. Il primo tocco deve già portare la palla verso la porta.",
+     "variants": "Tiri effettuati con entrambi i piedi; porta difesa da un portiere; palloni di peso e dimensioni diverse.",
+     "error": "Fermare la palla e poi ripartire da capo: si perde il vantaggio della ricezione.",
+     "behaviours": [
+      "Ricezione orientata: il primo tocco è metà del lavoro",
+      "Collo piede, caviglia tesa e punta verso il basso",
+      "Sguardo alla porta prima di abbassarlo sulla palla"
+     ],
+     "caption": "Ricezione, guida e tiro di collo piede",
+     "img": "img/esordientiB-w04-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Passaggio a «livello»",
+     "minutes": 5,
+     "desc": "Quattro giocatori divisi in coppie. Due si passano semplicemente la palla fra loro; gli altri due hanno un pallone ciascuno e lo conducono attorno a un cono fino alla linea da cui effettuare il passaggio al compagno e riceverlo indietro, evitando di essere intercettati dall'altro pallone in circolazione.",
+     "variants": "Passaggio con parti diverse del piede; palla ricevuta, arrestata e trasmessa dopo il giro attorno al birillo senza palla; gara a chi effettua più passaggi e arresti corretti.",
+     "error": "Eseguire il compito guardando solo la propria palla.",
+     "behaviours": [
+      "Guardare l'altro pallone mentre si esegue il proprio compito",
+      "Passaggio rasoterra e preciso",
+      "Il giro attorno al cono si fa stretto"
+     ],
+     "caption": "Passaggio d'interno e visione periferica",
+     "img": "img/esordientiB-w04-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiA",
+   "catName": "Esordienti A",
+   "year": "2014",
+   "day": "Martedì",
+   "week": 4,
+   "page": 24,
+   "title": "Guida, dribbling e tiro",
+   "ref": "FIGC-SGS · Modulo 2 · Lezione 4 «Gioca, crea e vai al goal» — passaggio e ricezione in movimento; superamento dell'avversario e conclusione rapida",
+   "objective": "Alla fine della seduta il ragazzo supera un avversario in conduzione e conclude rapidamente, senza perdere tempo.",
+   "motor": "Rapidità decisionale in situazione semplificata.",
+   "materials": "12 palloni n.4, 1 nastro + 4 paletti, 28 cinesini, 14 coni, 6 porticine, 12 casacche",
+   "closing": "Osserva chi prova il dribbling e chi lo evita: incoraggia i secondi, non correggere i primi.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Calcio tennis - torneo",
+     "minutes": 5,
+     "desc": "Torneo interno 3 contro 3 con girone all'italiana: una partita per seduta. A ogni tocco può precedere un rimbalzo e ogni tocco va giocato da un giocatore diverso. La battuta va effettuata in modo accessibile alla risposta avversaria e può essere rifiutata. Rotazione delle posizioni a ogni cambio di palla. Si tiene un tabellone dei risultati.",
+     "variants": "Se le squadre sono dispari, chi riposa entra per le sostituzioni; variare l'altezza del nastro.",
+     "error": "Battute impossibili per fare punto: lo scambio non parte mai.",
+     "behaviours": [
+      "La battuta semplice fa durare gli scambi: conviene a tutti",
+      "Rotazione continua: tutti toccano la palla",
+      "Il tabellone motiva ad arrivare prima al campo"
+     ],
+     "caption": "Girone interno 3 contro 3",
+     "img": "img/esordientiA-w04-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Guida, dribbling e tiro",
+     "minutes": 5,
+     "desc": "In un quadrato, il giocatore in possesso parte da un angolo in conduzione verso la porticina affrontando un difensore. Deve superarlo in dribbling e concludere rapidamente. Lo stesso avviene sul lato opposto, così due coppie lavorano insieme.",
+     "variants": "Possibilità di chiedere aiuto al compagno d'attacco; chi conduce esegue una sovrapposizione con il compagno.",
+     "error": "Fintare da fermo e senza cambio di ritmo.",
+     "behaviours": [
+      "Attaccare il difensore, non aggirarlo da lontano",
+      "Due passi esplosivi dopo il dribbling, poi conclusione",
+      "Si conclude subito: la rapidità fa parte del compito"
+     ],
+     "caption": "Superamento e conclusione rapida",
+     "img": "img/esordientiA-w04-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "2 contro 1 in continuità",
+     "minutes": 5,
+     "desc": "In uno spazio di 15 x 10 m si affrontano due coppie. Lo scopo è realizzare il punto in conduzione superando la linea difesa dagli avversari, avendo a disposizione dieci tentativi. Poi si cambiano i ruoli. Il difensore può avanzare molto, quindi la decisione deve essere rapida.",
+     "variants": "Usare solo il piede esterno rispetto alla direzione; usare solo l'interno.",
+     "error": "Passare subito da lontano, annullando la superiorità.",
+     "behaviours": [
+      "Portare palla verso il difensore prima di decidere",
+      "Il compagno crea distanza allargandosi",
+      "Passaggio nel piede lontano dal difensore"
+     ],
+     "caption": "Passaggio e ricezione per risolvere",
+     "img": "img/esordientiA-w04-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "giovanissimiB",
+   "catName": "Giovanissimi B",
+   "year": "2013",
+   "day": "Martedì",
+   "week": 4,
+   "page": 25,
+   "title": "Controllo e finte, cross e colpo di testa",
+   "ref": "FIGC-SGS · Esordienti · Modulo 6 · Lezione 16 «Gioca in profondità e vai al cross» — controllo della palla e finte; colpo di testa in situazione",
+   "objective": "Alla fine della seduta il ragazzo risolve una serie di situazioni tecniche individuali e attacca un cross liberandosi del difensore.",
+   "motor": "Controllo senso-percettivo e coordinativo; mobilità articolare.",
+   "materials": "12 palloni n.4/5 + 4 morbidi, 1 nastro, 30 cinesini, 16 coni, 6 porticine, 12 casacche",
+   "closing": "Con il colpo di testa parti dal pallone morbido anche a questa età, soprattutto con chi ha paura.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Controllo e finte",
+     "minutes": 5,
+     "desc": "Ogni ragazzo con una palla, senza opposizione esterna, risolve una serie di situazioni tecniche proposte: rullaggio con la pianta del piede, rullaggio per cambio di direzione, finta e spostamento della palla con l'esterno, finta e rientro con l'interno, finta a forbice e guida con il piede opposto. Ogni gesto si ripete più volte per lato.",
+     "variants": "Stesso lavoro con opposizione passiva di un avversario; finalizzare i movimenti di finta con un passaggio a un compagno.",
+     "error": "Eseguire la sequenza in modo meccanico senza cambio di ritmo.",
+     "behaviours": [
+      "Attenzione rivolta all'interno: qui si sente il gesto",
+      "Ogni finta si chiude con due passi di accelerazione",
+      "Entrambi i lati, sempre"
+     ],
+     "caption": "Sequenza di gesti individuali",
+     "img": "img/giovanissimiB-w04-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "I due crossatori",
+     "minutes": 5,
+     "desc": "Simulando una situazione di gioco, i ragazzi a turno crossano (inizialmente con le mani, poi con i piedi) mentre i compagni, attraverso movimenti coordinati, si liberano del difensore e vanno alla conclusione di testa. Si alternano i lati.",
+     "variants": "Cross effettuato con i piedi; gioco effettuato con due difensori.",
+     "error": "Restare fermi al centro aspettando che la palla arrivi addosso.",
+     "behaviours": [
+      "Il movimento per liberarsi parte prima del cross",
+      "Si attacca la palla, non la si aspetta",
+      "Colpo di testa con la fronte, occhi aperti"
+     ],
+     "caption": "Attaccare il cross liberandosi",
+     "img": "img/giovanissimiB-w04-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Mobilità articolare con la palla",
+     "minutes": 5,
+     "desc": "Ognuno con una palla dentro uno spazio. Dopo una breve fase di riscaldamento con guida della palla ed esercizi tecnici, si eseguono movimenti di allungamento utilizzando la palla come punto di riferimento e di appoggio.",
+     "variants": "A coppie con una palla; due gruppi in spazi adiacenti che si scambiano di spazio con sprint brevi.",
+     "error": "Trattarlo come una pausa senza compito.",
+     "behaviours": [
+      "Movimenti lenti e controllati",
+      "La palla dà il riferimento della posizione",
+      "Respirazione tranquilla"
+     ],
+     "caption": "Allungamento e sensibilizzazione",
+     "img": "img/giovanissimiB-w04-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "pulcini",
+   "catName": "Pulcini",
+   "year": "2016",
+   "day": "Lunedì",
+   "week": 5,
+   "page": 27,
+   "title": "Correre per calciare: guida e conclusione",
+   "ref": "FIGC-SGS · Modulo 2 · Lezione 5 «Corri e tira in porta» — tecnico-coordinativo: conduzione della palla con tiro in porta; correre per calciare",
+   "objective": "Alla fine della seduta il bambino conduce, si prepara la palla con un autopassaggio e conclude in porticina da direzioni diverse.",
+   "motor": "Combinare corsa e gesto del calciare; precisione in movimento.",
+   "materials": "12 palloni n.4, 24 cinesini, 10 coni, 4 porticine, 2 ostacoli bassi",
+   "closing": "Conta e annuncia i gol per gruppo, non per singolo: motiva senza mettere in imbarazzo nessuno.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Guida e tiro partendo da direzioni diverse",
+     "minutes": 5,
+     "desc": "I bambini si dividono in tre gruppi di colore diverso, disposti frontalmente e lateralmente rispetto alla porticina. A turno si conduce la palla per qualche metro, si esegue un autopassaggio in avanti e si corre a calciare. Rotazione in senso orario, così ognuno conclude da tutte le angolazioni. Si contano i gol per gruppo.",
+     "variants": "Eseguire un gesto tecnico prima del tiro (finta e tiro); passaggio al compagno, ritorno in gioco a muro e tiro in corsa.",
+     "error": "Calciare di punta: da fermi si corregge subito, in corsa va richiamato.",
+     "behaviours": [
+      "L'autopassaggio deve essere corto: la palla si raggiunge in due passi",
+      "Piede d'appoggio a fianco della palla, puntato verso la porticina",
+      "Da lontano interno-collo, da vicino interno piede"
+     ],
+     "caption": "Conclusione frontale e in diagonale",
+     "img": "img/pulcini-w05-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Calciare di precisione",
+     "minutes": 5,
+     "desc": "A coppie, di fronte, con due porticine larghe 1,5 m poste a 10-12 m di distanza. A turno si calcia rasoterra di interno piede cercando di far passare la palla nella porticina; il compagno para ricevendo con l'interno del piede. Si conta chi segna di più.",
+     "variants": "Calciare di collo piede mantenendo la palla rasoterra; parare con le mani.",
+     "error": "Cercare la potenza: qui si valuta solo la precisione.",
+     "behaviours": [
+      "Piede d'appoggio orientato al bersaglio, caviglia bloccata",
+      "Palla colpita al centro perché resti rasoterra",
+      "Chi riceve para con il piede, non con le mani: è già ricezione"
+     ],
+     "caption": "Passaggio radente di interno piede",
+     "img": "img/pulcini-w05-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Gara a staffetta con tiro in porta finale",
+     "minutes": 5,
+     "desc": "Percorso in due file: si passa sotto un ostacolo basso, si gira attorno a due coni e si corre verso una palla ferma a 8 m dalla porticina per concludere. Chi ha calciato riposiziona la palla e va a dare il cambio. Vince la squadra con più gol.",
+     "variants": "Toccare i coni con la mano; percorso effettuato conducendo la palla.",
+     "error": "Arrivare sulla palla sbilanciati e calciarla di punta.",
+     "behaviours": [
+      "Il gesto tecnico non si perde per la fretta",
+      "Ultimo passo di appoggio a fianco della palla",
+      "Rimettere la palla al suo posto fa parte del compito"
+     ],
+     "caption": "Percorso rapido e conclusione",
+     "img": "img/pulcini-w05-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiB",
+   "catName": "Esordienti B",
+   "year": "2015",
+   "day": "Lunedì",
+   "week": 5,
+   "page": 28,
+   "title": "Tiro in porta frontale e in diagonale",
+   "ref": "FIGC-SGS · Pulcini · Modulo 6 · Lezione 17 «Tira in porta e fai goal» — tiro in porta frontale e in diagonale; passaggio e ricezione combinati con il tiro",
+   "objective": "Alla fine della seduta il ragazzo conclude in porta con palla ferma e in movimento, controllando l'ultimo passo prima del tiro.",
+   "motor": "Frequenza dei movimenti, reattività e velocità.",
+   "materials": "12 palloni n.4, 28 cinesini, 12 coni, 4 porticine, 1 porta se disponibile",
+   "closing": "Regola d'oro del tiro: prima si sistema la palla, poi si calcia. Ripetila a ogni ripetizione.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Ricevi, passa e tira",
+     "minutes": 5,
+     "desc": "A coppie, frontalmente, a 10 m di distanza, con una porticina a metà strada. Chi ha la palla esegue un passaggio rasoterra dentro la porticina, poi corre verso il compagno passando attraverso la stessa porticina per ostacolarne il tiro. Il compagno riceve, esegue un autopassaggio e corre a concludere.",
+     "variants": "In dai e vai; in dai e segui.",
+     "error": "Correre per disturbare troppo presto, impedendo il gesto.",
+     "behaviours": [
+      "Il passaggio dentro la porticina è già una prova di precisione",
+      "Autopassaggio corto, poi tiro senza fermarsi",
+      "Chi ostacola arriva in ritardo di proposito: serve solo a mettere fretta"
+     ],
+     "caption": "Passaggio in porticina, corsa e conclusione",
+     "img": "img/esordientiB-w05-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Tiro in diagonale in successione",
+     "minutes": 5,
+     "desc": "Due gruppi disposti in due file. Alternandosi si passa la palla a un compagno posto frontalmente a 10 m, si attende il passaggio di ritorno e si corre a tirare. Il tiro va effettuato con la palla ferma, quindi la ricezione del compagno deve essere pulita. Chi ha tirato prende il posto del compagno in appoggio.",
+     "variants": "Con gioco a muro, ricezione a seguire e tiro in porta; in dai e vai.",
+     "error": "Tirare su palla ancora in movimento perché il compagno ha sbagliato la ricezione.",
+     "behaviours": [
+      "Il passaggio di ritorno va messo davanti a chi corre",
+      "Palla ferma al momento del tiro: se rotola, il gesto peggiora",
+      "Rotazione dei compiti a ogni ripetizione"
+     ],
+     "caption": "Dai e segui con conclusione",
+     "img": "img/esordientiB-w05-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Circuito di rapidità e tiro in porta",
+     "minutes": 5,
+     "desc": "Due squadre in due file dietro la linea di fondo. Si corre toccando con le mani i coni disposti in modo sfalsato, si torna indietro e si calcia la palla nelle porticine ricavate agli angoli di una porta. Al termine si contano i gol realizzati dentro le porticine.",
+     "variants": "Effettuare il tiro in diagonale.",
+     "error": "Arrivare sulla palla di corsa e calciarla di punta.",
+     "behaviours": [
+      "Appoggi rapidi fra i coni, poi calma nel gesto del tiro",
+      "Precisione negli angoli, non potenza al centro",
+      "Recupero fra una ripetizione e l'altra"
+     ],
+     "caption": "Percorso rapido e conclusione precisa",
+     "img": "img/esordientiB-w05-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiA",
+   "catName": "Esordienti A",
+   "year": "2014",
+   "day": "Martedì",
+   "week": 5,
+   "page": 29,
+   "title": "Sovrapposizione e conclusione",
+   "ref": "FIGC-SGS · Modulo 2 · Lezione 5 «Mi inserisco e vado al tiro» — colpire per crossare e per tirare; passaggio in dai e segui",
+   "objective": "Alla fine della seduta il ragazzo esegue una sovrapposizione, riceve il ritorno e conclude con palla in movimento.",
+   "motor": "Aggiustamento del gesto del tiro con palla in movimento.",
+   "materials": "12 palloni n.4, 1 nastro, 28 cinesini, 14 coni, 6 porticine, 12 casacche",
+   "closing": "La sovrapposizione è un movimento nuovo: falla provare lentamente prima di metterla a velocità.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Calcio tennis",
+     "minutes": 5,
+     "desc": "Cinque minuti di calcio tennis come attivazione: un rimbalzo per tocco, tre tocchi a squadra, giocatori diversi. Serve a entrare subito nella seduta con attenzione alta e sensibilità pronta.",
+     "variants": "Torneo con punteggio breve.",
+     "error": "Trasformare l'attivazione in una sfida agonistica che consuma energie.",
+     "behaviours": [
+      "Attivazione, non gara: scambi lunghi",
+      "Battuta semplice",
+      "Rotazione a ogni cambio palla"
+     ],
+     "caption": "Attivazione percettiva",
+     "img": "img/esordientiA-w05-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Sovrapposizione e tiro",
+     "minutes": 5,
+     "desc": "Il giocatore A passa la palla a B ed esegue una sovrapposizione correndogli attorno all'esterno; riceve il passaggio di ritorno e, stringendo verso il centro, va al tiro. Lo stesso sviluppo si esegue sul lato opposto, con rotazione dei compiti.",
+     "variants": "A non tira ma esegue un cross per B che segue e conclude; inserimento di un difensore attivo.",
+     "error": "Partire in sovrapposizione troppo presto e superare la palla.",
+     "behaviours": [
+      "La sovrapposizione parte dopo il passaggio, non prima",
+      "Il ritorno va messo nello spazio davanti a chi corre",
+      "Si stringe verso il centro prima di calciare"
+     ],
+     "caption": "Dai e segui esterno e conclusione",
+     "img": "img/esordientiA-w05-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "3 contro 2, passa la palla",
+     "minutes": 5,
+     "desc": "Uno spazio di 15 x 10 m diviso in due. In una metà si gioca 2 contro 1 con lo scopo di passare la palla al compagno posizionato nell'altra metà; il secondo difensore presidia centralmente un corridoio. Quando la palla passa la metà campo si ricrea la stessa situazione dall'altra parte.",
+     "variants": "A tre tocchi; riducendo lo spazio di gioco.",
+     "error": "Forzare il passaggio con la linea chiusa.",
+     "behaviours": [
+      "Il passaggio parte quando si apre la linea, non prima",
+      "Chi attende oltre la linea si muove per farsi vedere",
+      "Chi passa segue la palla"
+     ],
+     "caption": "Trasmissione con difensori attivi",
+     "img": "img/esordientiA-w05-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "giovanissimiB",
+   "catName": "Giovanissimi B",
+   "year": "2013",
+   "day": "Martedì",
+   "week": 5,
+   "page": 30,
+   "title": "Calcio a parabola, controllo e conclusione",
+   "ref": "FIGC-SGS · Esordienti · Modulo 6 · Lezione 17 «Il calcio a parabola» — calciare a parabola con palla in movimento; ricezione e tiro",
+   "objective": "Alla fine della seduta il ragazzo calcia a parabola con entrambi i piedi e controlla la palla alta per andare alla conclusione.",
+   "motor": "Mobilità articolare; resistenza generale con la palla.",
+   "materials": "12 palloni n.4/5, 1 nastro + 4 paletti, 30 cinesini, 16 coni, 6 porticine",
+   "closing": "La palla a parabola cambia il modo di vedere il campo: falla provare in tutte e due le direzioni.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Calcio tennis",
+     "minutes": 5,
+     "desc": "Calcio tennis con colpi al volo dopo il primo rimbalzo. Serve a preparare l'occhio alle traiettorie a parabola che saranno il tema della seduta.",
+     "variants": "Variare l'altezza del nastro.",
+     "error": "Colpire in ritardo mandando la palla fuori.",
+     "behaviours": [
+      "Anticipare il punto di caduta",
+      "Colpire con il piede fermo sotto la palla",
+      "Rotazione a ogni cambio palla"
+     ],
+     "caption": "Attivazione e lettura delle traiettorie",
+     "img": "img/giovanissimiB-w05-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Calcio a parabola: controllo e tiro",
+     "minutes": 5,
+     "desc": "Il giocatore B gioca a muro con un compagno e calcia a parabola sopra il nastro con il piede sinistro; un terzo si inserisce, arresta la palla e conclude in porticina. Lo stesso sviluppo si esegue partendo dal lato destro, con altri ragazzi in attesa.",
+     "variants": "Variare l'altezza del nastro; inserire un difensore che parte da dietro l'attaccante e prova a ostacolarlo.",
+     "error": "Colpire la palla al centro sperando che si alzi.",
+     "behaviours": [
+      "Per alzare la palla si colpisce sotto, con il piede aperto",
+      "Chi si inserisce arriva in corsa e controlla in avanti",
+      "Entrambi i piedi, alternati"
+     ],
+     "caption": "Muro, parabola sopra il nastro e conclusione",
+     "img": "img/giovanissimiB-w05-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Esercizi di mobilità articolare con la palla",
+     "minutes": 5,
+     "desc": "Sequenza di allungamento e mobilità eseguita usando la palla come riferimento: circonduzioni, torsioni, allunghi con la palla appoggiata, brevi fasi di guida fra un movimento e l'altro.",
+     "variants": "A coppie con una palla sola.",
+     "error": "Trasformarlo in un momento di distrazione.",
+     "behaviours": [
+      "Movimenti lenti, mai a strappo",
+      "La palla dà la misura dell'ampiezza",
+      "Respirazione regolare"
+     ],
+     "caption": "Allungamento con l'attrezzo",
+     "img": "img/giovanissimiB-w05-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "pulcini",
+   "catName": "Pulcini",
+   "year": "2016",
+   "day": "Lunedì",
+   "week": 6,
+   "page": 32,
+   "title": "Guida della palla con cambio di direzione a comando",
+   "ref": "FIGC-SGS · Modulo 2 · Lezione 6 «Corri e raggiungi l'obiettivo» — guida della palla e orientamento nello spazio; capacità di reazione",
+   "objective": "Alla fine della seduta il bambino esegue un cambio di direzione con il piede destro e con il sinistro reagendo a un segnale, e riparte verso lo spazio libero.",
+   "motor": "Capacità di reazione a stimolo sonoro e visivo; visione periferica.",
+   "materials": "12 palloni n.4, 24 cinesini, 10 coni, 8 paletti (o coni alti), 8 delimitatori",
+   "closing": "Chiudi il modulo 2 ricordando i due gesti allenati: guidare in velocità e calciare correndo.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Corri all'angolo",
+     "minutes": 5,
+     "desc": "Il gruppo conduce liberamente la palla dentro lo spazio. A una battuta di mani ciascuno esegue un cambio di direzione con il piede destro e subito dopo un altro con il sinistro. A un segnale diverso (voce o fischio) la palla va condotta dietro uno dei paletti che delimitano il campo, e non possono andare tutti dietro lo stesso paletto.",
+     "variants": "Cambio di direzione eseguito di tacco oppure con l'esterno del piede; tutte le porticine devono risultare occupate.",
+     "error": "Eseguire il cambio sempre con il piede preferito.",
+     "behaviours": [
+      "Due segnali diversi, due risposte diverse: bisogna ascoltare",
+      "Il cambio si esegue con la palla vicina, non a distanza",
+      "Guardare quale paletto è libero mentre si conduce"
+     ],
+     "caption": "Cambio di direzione al battito di mani",
+     "img": "img/pulcini-w06-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Corri e porta a casa a coppie",
+     "minutes": 5,
+     "desc": "Come nella settimana 4, ma con un solo pallone ogni due bambini: al segnale i due partono da file opposte verso lo stesso pallone. Chi lo conquista lo conduce nella propria casa, l'altro prova a contendergli lo spazio senza contatto. Si cambia compagno a ogni turno.",
+     "variants": "Chi conquista può concludere nella porticina difesa dall'avversario; variare le posizioni di partenza.",
+     "error": "Trasformarlo in un contrasto fisico: a piedi scalzi questa variante non si propone.",
+     "behaviours": [
+      "Il primo tocco dopo la conquista mette la palla dal lato protetto",
+      "Corpo fra palla e compagno",
+      "Nessun contatto: si gioca sullo spazio, non sulla spinta"
+     ],
+     "caption": "Conquista della palla in coppia",
+     "img": "img/pulcini-w06-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Staffetta con sprint di 10 m",
+     "minutes": 5,
+     "desc": "Staffetta su 10 metri in cui si corre tenendo la palla in mano: serve a lavorare sulla frequenza dei passi senza il vincolo della conduzione. Al ritorno la palla viene consegnata al compagno. Serie brevi e recupero pieno.",
+     "variants": "Sprint con cambio di direzione a metà percorso.",
+     "error": "Prolungare l'esercizio fino alla stanchezza.",
+     "behaviours": [
+      "Braccia attive, appoggi rapidi",
+      "Consegna della palla senza rallentare",
+      "Poche ripetizioni, tutte al massimo"
+     ],
+     "caption": "Rapidità con la palla in mano",
+     "img": "img/pulcini-w06-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiB",
+   "catName": "Esordienti B",
+   "year": "2015",
+   "day": "Lunedì",
+   "week": 6,
+   "page": 33,
+   "title": "Palleggio e calcio orientato di collo piede",
+   "ref": "FIGC-SGS · Pulcini · Modulo 6 · Lezione 18 «Impara a palleggiare» — sensibilizzazione e controllo della palla; calciare orientato di collo piede",
+   "objective": "Alla fine della seduta il ragazzo palleggia alternando i due piedi e conclude in diagonale scegliendo l'angolo.",
+   "motor": "Equilibrio monopodalico; capacità di accelerare e decelerare.",
+   "materials": "12 palloni n.4 di misure diverse, 8 cerchi, 28 cinesini, 12 coni, 4 porticine",
+   "closing": "Confronta i record di palleggio con quelli della settimana 4: il progresso in tre settimane è già visibile.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Propedeutica al palleggio",
+     "minutes": 5,
+     "desc": "Progressione individuale: palleggio con il solo piede dominante, poi due tocchi con il sinistro e due con il destro, poi alternanza coscia-piede. Si annota il record personale, che verrà confrontato nella settimana 12.",
+     "variants": "Palleggio di coscia e di piede alternati; due tocchi con il sinistro e due con il destro.",
+     "error": "Fare la serie solo con il piede forte per battere il record.",
+     "behaviours": [
+      "Ginocchio sopra la palla per non lanciarla in avanti",
+      "Piccoli aggiustamenti dei piedi fra un tocco e l'altro",
+      "Il piede debole vale quanto l'altro"
+     ],
+     "caption": "Palleggio alternato piede e coscia",
+     "img": "img/esordientiB-w06-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Ricevi e fai goal «all'angoletto»",
+     "minutes": 5,
+     "desc": "Il ragazzo riceve la palla da un compagno, la conduce dietro il cono e conclude in porta in diagonale di collo piede: con il sinistro verso la destra della porta e viceversa. Vince chi realizza più gol.",
+     "variants": "Tiri con parti diverse del piede; porta difesa da un portiere; chi tira riceve di spalle alla porta.",
+     "error": "Calciare al centro della porta perché è più facile.",
+     "behaviours": [
+      "La conclusione in diagonale richiede di aprire il piede d'appoggio",
+      "Guardare l'angolo scelto, poi la palla",
+      "Il cono va aggirato stretto per non allargare troppo l'angolo di tiro"
+     ],
+     "caption": "Conclusione orientata di collo piede",
+     "img": "img/esordientiB-w06-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Quadrato di smarcamento",
+     "minutes": 5,
+     "desc": "Tre ragazzi si dispongono agli angoli di un quadrato con un pallone. Il gioco consiste nel dare a chi ha la palla due possibili soluzioni di passaggio, una radente e una verticale, spostandosi di conseguenza. Si aggiunge poi un difensore al centro che cerca di intercettare.",
+     "variants": "Passaggio e ricezione con parti diverse del piede; difensore al centro; passaggio anche in diagonale.",
+     "error": "Restare fermi nell'angolo aspettando la palla.",
+     "behaviours": [
+      "Chi non ha la palla si muove per offrire la linea",
+      "Due soluzioni sempre disponibili",
+      "Il passaggio parte quando il compagno è pronto"
+     ],
+     "caption": "Offrire due soluzioni di passaggio",
+     "img": "img/esordientiB-w06-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiA",
+   "catName": "Esordienti A",
+   "year": "2014",
+   "day": "Martedì",
+   "week": 6,
+   "page": 34,
+   "title": "Passaggio e ricezione a parabola",
+   "ref": "FIGC-SGS · Modulo 2 · Lezione 6 «Alla ricerca del passaggio al volo» — colpire la palla al volo; passaggio e ricezione a parabola",
+   "objective": "Alla fine della seduta il ragazzo calcia a parabola superando il nastro e controlla la palla in arrivo dall'alto con un tocco a seguire.",
+   "motor": "Resistenza specifica leggera; coordinazione occhio-piede su palla in volo.",
+   "materials": "12 palloni n.4, 1 nastro + 4 paletti, 28 cinesini, 14 coni, 6 porticine",
+   "closing": "La palla a parabola apre soluzioni di gioco nuove: spiegalo ai ragazzi, lo capiscono benissimo.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Passaggio e ricezione a parabola con nastro",
+     "minutes": 5,
+     "desc": "In un rettangolo si trasmette la palla rasoterra sotto il nastro verso il compagno posto frontalmente a 15 m; questi, calciando di prima intenzione, deve superare con una traiettoria a parabola il nastro disposto a circa un metro e mezzo. Chi riceve controlla di interno piede a seguire e riparte.",
+     "variants": "Alternare i piedi; variare l'altezza del nastro.",
+     "error": "Colpire la palla al centro sperando che si alzi: non succede.",
+     "behaviours": [
+      "Per alzare la palla si colpisce sotto, con il piede aperto",
+      "Il controllo a seguire porta la palla avanti",
+      "Il passaggio rasoterra deve essere teso, altrimenti il gesto successivo non riesce"
+     ],
+     "caption": "Rasoterra sotto, parabola sopra",
+     "img": "img/esordientiA-w06-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Ricezione e passaggio in successione e palla a parabola",
+     "minutes": 5,
+     "desc": "Tre ragazzi disposti uno di fronte all'altro a 15 m. Dopo un passaggio rasoterra in dai e segui, si effettua una ricezione a seguire di interno piede e un successivo passaggio a parabola verso il compagno in attesa, seguito da uno scatto. Rotazione continua.",
+     "variants": "A tre con un compagno posto centralmente che esegue un gioco a muro e cambia di posto.",
+     "error": "Fermare la palla e poi calciare: il gesto perde fluidità.",
+     "behaviours": [
+      "Ricezione a seguire verso la direzione del gesto successivo",
+      "Il passaggio a parabola richiede un passo di caricamento",
+      "Si scatta dopo aver calciato"
+     ],
+     "caption": "Dai e segui, ricezione a seguire e cross",
+     "img": "img/esordientiA-w06-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Calcio tennis",
+     "minutes": 5,
+     "desc": "Calcio tennis con la regola dei tre colpi al volo dopo il primo rimbalzo. Ogni colpo a un giocatore diverso, battuta semplice, rotazione delle posizioni a ogni cambio palla.",
+     "variants": "Calciare di interno piede; solo con il piede destro o solo con il sinistro.",
+     "error": "Colpire di potenza mandando la palla fuori.",
+     "behaviours": [
+      "Il volo consolida quanto fatto con il nastro",
+      "Posizionarsi sotto la palla in anticipo",
+      "Dosaggio della forza"
+     ],
+     "caption": "Consolidamento del colpo al volo",
+     "img": "img/esordientiA-w06-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "giovanissimiB",
+   "catName": "Giovanissimi B",
+   "year": "2013",
+   "day": "Martedì",
+   "week": 6,
+   "page": 35,
+   "title": "Cambio di gioco e cross",
+   "ref": "FIGC-SGS · Esordienti · Modulo 6 · Lezione 18 «Vai al goal conquistando spazio» — calciare a parabola per cambio di fronte, cross e inserimento laterale",
+   "objective": "Alla fine della seduta il ragazzo esegue un cambio di gioco a parabola e serve un compagno che si inserisce sull'esterno.",
+   "motor": "Mobilità articolare con la palla; velocizzazione delle scelte.",
+   "materials": "12 palloni n.4/5, 30 cinesini, 16 coni, 8 porticine, 12 casacche",
+   "closing": "Fai nominare ai ragazzi la soluzione scelta a ogni azione: consolida la comprensione più di qualsiasi spiegazione.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Cambio di gioco e cross",
+     "minutes": 5,
+     "desc": "Si parte a circa 30 m dalla porticina con tre o quattro ragazzi disposti come in figura. Le zone laterali sono delimitate per dare riferimenti precisi ai movimenti in profondità e alla ricezione. Il centrale gioca a muro con l'attaccante, il quale serve il laterale che al volo manda la palla a parabola sul compagno esterno opposto. L'azione si chiude con un cross o con una conclusione.",
+     "variants": "Il laterale inizia il gioco; il centrale esegue una sovrapposizione e va al cross.",
+     "error": "Calciare il cambio di gioco rasoterra: non supera nessuno.",
+     "behaviours": [
+      "Il muro si gioca di prima, senza girarsi",
+      "Il cambio di gioco va calciato sotto la palla per farla viaggiare",
+      "Chi riceve sull'esterno controlla in avanti, verso il fondo"
+     ],
+     "caption": "Muro centrale e verticalizzazione",
+     "img": "img/giovanissimiB-w06-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Mobilità articolare con la palla",
+     "minutes": 5,
+     "desc": "Guida della palla e brevi gesti tecnici alternati a movimenti di allungamento eseguiti usando la palla come riferimento. Va inserito fra i due blocchi tecnici per abbassare l'intensità senza interrompere il ritmo della seduta.",
+     "variants": "A coppie con una palla; due gruppi che si scambiano di spazio con sprint brevi.",
+     "error": "Perdere il filo della seduta trasformandolo in una pausa.",
+     "behaviours": [
+      "Movimenti ampi e controllati",
+      "Si continua a toccare la palla",
+      "Tono di voce calmo dell'istruttore"
+     ],
+     "caption": "Sensibilizzazione e allungamento",
+     "img": "img/giovanissimiB-w06-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "3 contro 1 in successione",
+     "minutes": 5,
+     "desc": "Tre gruppi si alternano in azioni offensive con un attaccante fisso e uno o due difensori. Lo start per gli inserimenti laterali avviene quando l'attaccante esegue il passaggio di ritorno. Il difensore non può ostacolare l'attaccante ma interviene subito dopo. Il cambio di gioco può avvenire con palla rasoterra o a parabola.",
+     "variants": "Con due difensori; con attaccante posto lateralmente per il gioco a muro.",
+     "error": "Partire in anticipo e ricevere fermi.",
+     "behaviours": [
+      "Lo start parte con il passaggio di ritorno, non prima",
+      "La scelta fra rasoterra e parabola dipende da dov'è il difensore",
+      "Rotazione ordinata dei gruppi"
+     ],
+     "caption": "Consolidamento del cambio di gioco",
+     "img": "img/giovanissimiB-w06-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "pulcini",
+   "catName": "Pulcini",
+   "year": "2016",
+   "day": "Lunedì",
+   "week": 7,
+   "page": 37,
+   "title": "Controllo di suola e primo passaggio d'interno",
+   "ref": "FIGC-SGS · Modulo 3 · Lezione 7 «Alla conquista dello spazio» — guida con cambio di senso e di direzione; impostazione del passaggio d'interno piede",
+   "objective": "Alla fine della seduta il bambino controlla la palla con la pianta del piede e trasmette di interno piede rasoterra a un compagno vicino.",
+   "motor": "Equilibrio monopodalico; attenzione all'ambiente esterno durante il controllo.",
+   "materials": "12 palloni n.4, 24 cinesini, 12 coni, 8 delimitatori, 2 porticine",
+   "closing": "Da oggi entra il passaggio: ripeti la formula «piede d'appoggio, caviglia bloccata, palla rasoterra».",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Guida, controlla e porta a casa",
+     "minutes": 5,
+     "desc": "Due gruppi conducono la palla nello spazio superando un cono e usando l'interno del piede per il controllo. A un segnale prestabilito la palla va condotta e fermata dentro lo spazio delimitato (la casa). Ogni giro prevede almeno un controllo di suola sopra la palla.",
+     "variants": "I componenti della squadra occupano la casa in diagonale; se i coni sono colorati, il colore stabilisce con quale parte del piede superarli.",
+     "error": "Fermare la palla tirandola indietro con l'interno: qui si vuole la pianta.",
+     "behaviours": [
+      "La pianta si appoggia sopra la palla: la palla si blocca sotto il piede",
+      "Sguardo fuori dalla palla per sentire il segnale",
+      "Il cono si supera stretto"
+     ],
+     "caption": "Controllo con la pianta del piede",
+     "img": "img/pulcini-w07-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Passa e segui la palla",
+     "minutes": 5,
+     "desc": "I bambini formano un quadrato e si trasmettono la palla di interno piede, rasoterra e frontale, seguendo il proprio passaggio e cambiando così posizione. Il primo tocco orienta, il secondo trasmette.",
+     "variants": "Sotto forma di gara di due minuti, vince chi effettua più passaggi; solo piede non dominante; andature diverse al posto della corsa.",
+     "error": "Restare fermi ad ammirare il proprio passaggio.",
+     "behaviours": [
+      "Piede d'appoggio a fianco della palla e puntato al compagno",
+      "Si parte subito dopo il passaggio: la corsa dietro la palla è parte del gesto",
+      "Passaggio rasoterra: se si alza, si è colpita la palla troppo sotto"
+     ],
+     "caption": "Trasmissione d'interno piede nel quadrato",
+     "img": "img/pulcini-w07-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Giochi a staffetta con la palla",
+     "minutes": 5,
+     "desc": "Due file opposte a 10 m. Si passa la palla di interno al compagno di fronte e subito dopo si effettua uno sprint in linea fino alla sua fila. Chi riceve controlla, passa e parte a sua volta. Serie brevi con recupero.",
+     "variants": "Passaggio obbligato con il piede meno abile.",
+     "error": "Passaggi troppo forti che costringono il compagno a rincorrere la palla.",
+     "behaviours": [
+      "Passaggio prima, corsa dopo: mai insieme",
+      "Il passaggio deve arrivare fermabile in un tocco",
+      "Sprint deciso, non trotto"
+     ],
+     "caption": "Passaggio e sprint",
+     "img": "img/pulcini-w07-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiB",
+   "catName": "Esordienti B",
+   "year": "2015",
+   "day": "Lunedì",
+   "week": 7,
+   "page": 38,
+   "title": "Gioco a muro e tiro in porta",
+   "ref": "FIGC-SGS · Pulcini · Modulo 7 · Lezione 19 «Smarcati e aiuta a costruire un'azione offensiva» — tiro in porta dopo un passaggio a muro; spostarsi in funzione di chi ha la palla",
+   "objective": "Alla fine della seduta il ragazzo esegue un passaggio alla sponda, riceve il ritorno e conclude senza fermare l'azione.",
+   "motor": "Rapidità e sincronizzazione neuromuscolare.",
+   "materials": "12 palloni n.4, 28 cinesini, 12 coni, 6 porticine, 2 sponde o compagni fissi",
+   "closing": "Il gioco a muro è il concetto centrale del modulo 7: fallo riconoscere e nominare ai ragazzi.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Passa alla sponda e tira in porta",
+     "minutes": 5,
+     "desc": "Il giocatore passa la palla in direzione della sponda (un compagno fisso o un attrezzo), riceve la palla di ritorno ed effettua un tiro frontale verso la porticina. Rotazione dei ruoli a ogni ripetizione.",
+     "variants": "Il ruolo della sponda è assunto da un altro ragazzo; porta difesa da un portiere; gara fra due squadre a chi realizza più reti.",
+     "error": "Ricevere il ritorno da fermi, annullando il vantaggio.",
+     "behaviours": [
+      "Riadattarsi allo spazio dopo aver passato: si scatta, non si aspetta",
+      "Corretta posizione del piede d'appoggio nel tiro",
+      "Il ritorno si riceve in corsa"
+     ],
+     "caption": "Dai e vai con conclusione",
+     "img": "img/esordientiB-w07-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Trova il «varco» e passa la palla",
+     "minutes": 5,
+     "desc": "Gioco a coppie. Nello spazio si posizionano tante porticine quante sono le coppie. Le coppie si passano la palla spostandosi nelle varie direzioni e facendola passare attraverso tutte le porticine, una alla volta, senza usare due volte di fila la stessa.",
+     "variants": "Utilizzando un solo piede; riducendo il numero delle porte; con doppio passaggio.",
+     "error": "Passare sempre attraverso la porticina più comoda.",
+     "behaviours": [
+      "Il passaggio va indirizzato dentro la porticina libera in quell'istante",
+      "Ci si sposta insieme al compagno, mantenendo la distanza",
+      "Testa alta per vedere quali porticine sono occupate"
+     ],
+     "caption": "Passaggio attraverso le porticine",
+     "img": "img/esordientiB-w07-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Staffetta del canguro",
+     "minutes": 5,
+     "desc": "Un ragazzo parte al centro di un quadrato di 50 cm di lato ed esegue saltelli veloci a gambe unite in avanti, a destra, indietro e a sinistra, passando sempre per il centro; poi prosegue per 5 m con saltelli su una gamba sola. Serie brevi.",
+     "variants": "Tutti i saltelli su una gamba; partenza su una gamba e proseguimento a due; alternanza gambe unite e divaricate.",
+     "error": "Eseguire i saltelli in modo pesante e disordinato.",
+     "behaviours": [
+      "Appoggi elastici, contatto breve con il terreno",
+      "Si passa sempre dal centro del quadrato",
+      "Poche ripetizioni, tutte curate"
+     ],
+     "caption": "Balzi e frequenza",
+     "img": "img/esordientiB-w07-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiA",
+   "catName": "Esordienti A",
+   "year": "2014",
+   "day": "Martedì",
+   "week": 7,
+   "page": 39,
+   "title": "Colpo di testa e scelta del lato",
+   "ref": "FIGC-SGS · Modulo 3 · Lezione 7 «Gioca al volo... con la testa» — colpo di testa in impostazione analitica; conclusione a rete",
+   "objective": "Alla fine della seduta il ragazzo colpisce di testa frontalmente con il gesto corretto e sceglie il lato dell'azione in base a quello che vede.",
+   "motor": "Coordinazione dell'anticipazione; forza muscolare relativa.",
+   "materials": "12 palloni n.4 + 4 morbidi, 1 nastro + 4 paletti, 28 cinesini, 14 coni, 6 porticine",
+   "closing": "Con il colpo di testa parti sempre dal pallone morbido: chi ha paura la perde in due sedute.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Calcio tennis",
+     "minutes": 5,
+     "desc": "Attivazione di cinque minuti con calcio tennis, curando in particolare la lettura della traiettoria e la coordinazione dell'anticipazione. Si può concedere anche il tocco di testa come uno dei tre tocchi.",
+     "variants": "Consentire il colpo di testa come tocco obbligato.",
+     "error": "Aspettare la palla fermi e colpirla in ritardo.",
+     "behaviours": [
+      "Leggere presto dove cadrà la palla",
+      "Posizionarsi sotto e non di lato",
+      "Ogni tocco a un giocatore diverso"
+     ],
+     "caption": "Studio delle traiettorie",
+     "img": "img/esordientiA-w07-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Colpo di testa a coppie",
+     "minutes": 5,
+     "desc": "Esercitazione a coppie: si colpisce di testa frontalmente superando il nastro posto a circa un metro e mezzo di altezza. Si cura la parte analitica: posizione dei piedi, arco del busto, contatto con la fronte e occhi aperti. Si usano anche palloni di gomma morbidi.",
+     "variants": "Sul posto; saltellando con arresto a piedi pari e colpo; con rincorsa e arresto a piedi pari; palleggio di testa a coppie sul nastro.",
+     "error": "Chiudere gli occhi e subire la palla: con la palla morbida il problema si risolve subito.",
+     "behaviours": [
+      "Si colpisce con la fronte, non con la sommità del capo",
+      "Il movimento parte dal busto, non dal collo",
+      "Occhi aperti fino al contatto"
+     ],
+     "caption": "Impostazione analitica del gesto",
+     "img": "img/esordientiA-w07-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Scegli il lato",
+     "minutes": 5,
+     "desc": "Gioco a tre. Il primo esegue uno slalom e si dirige verso un lato: se sceglie di passare al compagno di destra, quello va a concludere mentre il terzo fa il difensore, e viceversa. La scelta va fatta in corsa, guardando la posizione dei due compagni.",
+     "variants": "Variare le distanze; chi attende esegue un elemento tecnico (palleggi o passaggi).",
+     "error": "Decidere il lato prima ancora di iniziare lo slalom.",
+     "behaviours": [
+      "La scelta si fa mentre si conduce, non dopo",
+      "Chi riceve attacca subito la porta",
+      "Chi fa il difensore parte solo dopo il passaggio"
+     ],
+     "caption": "Reagire allo stimolo visivo e concludere",
+     "img": "img/esordientiA-w07-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "giovanissimiB",
+   "catName": "Giovanissimi B",
+   "year": "2013",
+   "day": "Martedì",
+   "week": 7,
+   "page": 40,
+   "title": "Calciare a parabola e allargare il fronte di gioco",
+   "ref": "FIGC-SGS · Esordienti · Modulo 7 · Lezione 19 «Gioca a parabola e cambia gioco» — calcio a parabola con palla in movimento; percezione della traiettoria",
+   "objective": "Alla fine della seduta il ragazzo calcia a parabola con palla in movimento e sceglie il cambio di gioco quando la zona in cui si trova è affollata.",
+   "motor": "Coordinazione neuromuscolare; potenziamento a carico naturale.",
+   "materials": "12 palloni n.4/5, 1 nastro + 4 paletti, 30 cinesini, 16 coni, 8 porticine, funicelle",
+   "closing": "I balzi vanno fatti a inizio blocco e in poche ripetizioni: sono efficaci solo se la qualità dell'appoggio resta alta.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Calciare sopra il nastro",
+     "minutes": 5,
+     "desc": "Esercitazione a tre: il primo passa in diagonale al secondo, che simula un affondo e restituisce la palla al primo, il quale si pone in sostegno ed effettua un calcio a parabola superando il nastro e facendo arrivare la palla al terzo, che riceve e conclude.",
+     "variants": "Avvicinare o allontanare i nastri dalla zona del cross.",
+     "error": "Colpire in ritardo e mandare la palla lunghissima.",
+     "behaviours": [
+      "Il piede d'appoggio si apre per alzare la palla",
+      "La parabola va calibrata sulla distanza, non calciata al massimo",
+      "Chi riceve controlla in avanti"
+     ],
+     "caption": "Parabola con palla in movimento",
+     "img": "img/giovanissimiB-w07-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Calcio tennis al volo",
+     "minutes": 5,
+     "desc": "Calcio tennis con tre colpi al volo dopo il primo rimbalzo. Ogni colpo a un giocatore diverso, battuta semplice e ripetibile, rotazione delle posizioni a ogni cambio palla.",
+     "variants": "Calciare di interno piede; solo destro o solo sinistro.",
+     "error": "Colpire di potenza mandando la palla fuori.",
+     "behaviours": [
+      "Il volo richiede posizionamento anticipato",
+      "Si differenzia forza e direzione a ogni colpo",
+      "Rotazione continua"
+     ],
+     "caption": "Colpire al volo di precisione",
+     "img": "img/giovanissimiB-w07-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Step e over per pliometria",
+     "minutes": 5,
+     "desc": "Si posizionano step (gradini bassi) e ostacolini. Si sale sullo step, ci si lascia cadere e si reagisce elasticamente per superare l'ostacolino. Dopo l'ultimo ostacolo è posizionata una palla per un 1 contro 1 rapido con difensore sulla linea. Poche ripetizioni, ben eseguite.",
+     "variants": "Aggiungere un difensore che insegue per stimolare il 1 contro 1 in rapidità.",
+     "error": "Aumentare il numero di balzi: la qualità dell'appoggio crolla e il rischio sale.",
+     "behaviours": [
+      "Contatto breve con il terreno: si reagisce, non si spinge lentamente",
+      "Atterraggio con ginocchia morbide e allineate",
+      "Il gesto tecnico dopo i balzi va eseguito con calma"
+     ],
+     "caption": "Coordinazione neuromuscolare e 1 contro 1",
+     "img": "img/giovanissimiB-w07-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "pulcini",
+   "catName": "Pulcini",
+   "year": "2016",
+   "day": "Lunedì",
+   "week": 8,
+   "page": 42,
+   "title": "Guida con ritmo e trasmissione in movimento",
+   "ref": "FIGC-SGS · Modulo 3 · Lezione 8 «Conquista lo spazio in collaborazione» — guida con esterno e interno destro/sinistro; ripetere un gesto con cadenza ritmica",
+   "objective": "Alla fine della seduta il bambino alterna in modo ritmico i tocchi di destro e di sinistro e trasmette la palla cambiando posizione.",
+   "motor": "Capacità di differenziazione e di ritmo; equilibrio.",
+   "materials": "12 palloni n.4, 24 cinesini, 12 coni, 8 delimitatori",
+   "closing": "Il tema della settimana è il ritmo: fai contare i tocchi ad alta voce, aiuta moltissimo.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Guida con ritmo e porta a casa",
+     "minutes": 5,
+     "desc": "Due gruppi conducono la palla superando un cono, usando esterno e interno del piede per il controllo. Al segnale si eseguono tre tocchi con il piede destro e tre con il sinistro, quindi la palla va condotta dentro la casa. La cadenza dei tocchi si conta ad alta voce.",
+     "variants": "Ripetere l'alternanza due volte; distribuzione equa dei compagni nelle case; il colore del cono stabilisce la modalità di superamento.",
+     "error": "Fare i tocchi di sinistro più veloci e sbrigativi per finire prima.",
+     "behaviours": [
+      "Il ritmo va tenuto: tre e tre, non a caso",
+      "Il piede meno abile va usato quanto l'altro",
+      "Ascoltare il segnale mentre si conduce"
+     ],
+     "caption": "Tre tocchi per piede e conduzione in casa",
+     "img": "img/pulcini-w08-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "La scala mobile",
+     "minutes": 5,
+     "desc": "Otto bambini si dispongono su due file, uno di fronte all'altro. Ciascuno passa la palla frontalmente e si sposta per prendere il posto del compagno al proprio fianco, ricevendo così il pallone successivo in diagonale. Tutti eseguono il compito nello stesso momento, con rotazione in senso antiorario.",
+     "variants": "Solo piede non dominante; a tempo, più rotazioni possibili in tre minuti; modalità di trasmissione diverse (interno, esterno, collo piede).",
+     "error": "Guardare i piedi invece della palla che arriva in diagonale.",
+     "behaviours": [
+      "Si passa e ci si sposta subito: chi resta fermo blocca la catena",
+      "Chi riceve in diagonale apre il corpo prima dell'arrivo",
+      "Voce per avvisare il compagno"
+     ],
+     "caption": "Trasmissione frontale e ricezione in diagonale",
+     "img": "img/pulcini-w08-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Gare a staffetta con la palla",
+     "minutes": 5,
+     "desc": "Staffetta su 15 m: si conduce la palla per 5 m, si passa di interno al compagno di fronte e si effettua uno sprint di 10 m. Il compagno controlla e riparte. Serie brevi con recupero.",
+     "variants": "Aumentare la distanza dello sprint o cambiare il gesto tecnico iniziale.",
+     "error": "Passaggio approssimativo per guadagnare tempo: il turno non è valido.",
+     "behaviours": [
+      "Il passaggio è preciso anche se si corre",
+      "Controllo in un tocco per non perdere tempo",
+      "Sprint completo fino alla linea"
+     ],
+     "caption": "Guida, passaggio e sprint",
+     "img": "img/pulcini-w08-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiB",
+   "catName": "Esordienti B",
+   "year": "2015",
+   "day": "Lunedì",
+   "week": 8,
+   "page": 43,
+   "title": "Combinazione a due e conclusione",
+   "ref": "FIGC-SGS · Pulcini · Modulo 7 · Lezione 20 «Vai al goal con la triangolazione» — tiro in porta dopo passaggio a muro; muoversi nello spazio per ricevere",
+   "objective": "Alla fine della seduta il ragazzo costruisce una conclusione insieme a un compagno con un dai e vai.",
+   "motor": "Capacità di accelerare e decelerare con cambi di senso e direzione.",
+   "materials": "12 palloni n.4, 28 cinesini, 12 coni, 6 porticine, 12 casacche",
+   "closing": "Chiudi il ciclo Pulcini: da qui in avanti si entra nel programma Esordienti.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Dai, vai e tira in porta",
+     "minutes": 5,
+     "desc": "Il giocatore scambia la palla con un compagno; quando la riceve conclude verso la porticina, a destra o a sinistra a seconda dello spostamento di chi difende. I ruoli cambiano automaticamente: chi ha concluso prende il posto della sponda, la sponda va in porta e il portiere passa a concludere.",
+     "variants": "Tiro con parti diverse del piede; la direzione del tiro è determinata dallo spostamento di un compagno esterno; gara fra due squadre.",
+     "error": "Decidere dove tirare prima ancora di ricevere la palla.",
+     "behaviours": [
+      "La direzione del tiro dipende da quello che fa chi difende: si guarda prima di calciare",
+      "Corretta posizione del piede d'appoggio",
+      "Rotazione automatica: nessun tempo morto"
+     ],
+     "caption": "Scambio e conclusione con rotazione automatica",
+     "img": "img/esordientiB-w08-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "L'appoggio",
+     "minutes": 5,
+     "desc": "Due giocatori si passano la palla di prima. Dopo un numero di passaggi stabilito in partenza, un terzo giocatore viene a ricevere la palla nella zona prefissata facendo sponda con il compagno da cui l'ha ricevuta. Si ruotano i compiti.",
+     "variants": "Il gioco si conclude con un tiro in porticina; un difensore ostacola chi fa da sponda e l'azione prosegue libera in 3 contro 1.",
+     "error": "Il terzo giocatore entra troppo presto e si sovrappone al compagno.",
+     "behaviours": [
+      "Il terzo arriva in movimento, non aspetta fermo",
+      "La sponda si gioca di prima",
+      "Comunicazione visiva: ci si guarda prima di muoversi"
+     ],
+     "caption": "Smarcamento e sponda",
+     "img": "img/esordientiB-w08-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Staffetta: sprint e saltelli",
+     "minutes": 5,
+     "desc": "Percorso di 20 m: 5 m di saltelli a gambe unite, 5 m di sprint in linea, poi si ripete la sequenza. Serve a combinare due azioni motorie diverse mantenendo la fluidità. Serie brevi con recupero.",
+     "variants": "Alternare saltelli a gambe unite e divaricate.",
+     "error": "Rallentare nel cambio fra i due tipi di movimento.",
+     "behaviours": [
+      "Il passaggio da saltelli a corsa deve essere fluido",
+      "Braccia attive in entrambe le fasi",
+      "Qualità prima della velocità"
+     ],
+     "caption": "Coordinazione e combinazione motoria",
+     "img": "img/esordientiB-w08-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiA",
+   "catName": "Esordienti A",
+   "year": "2014",
+   "day": "Martedì",
+   "week": 8,
+   "page": 44,
+   "title": "Trasmissione sotto pressione",
+   "ref": "FIGC-SGS · Modulo 3 · Lezione 8 «Conquista la palla e avanza» — passaggio e ricezione in situazione; stabilizzazione del calciare e del ricevere sotto pressione",
+   "objective": "Alla fine della seduta il ragazzo trasmette e riceve con avversari attivi, scegliendo la linea di passaggio libera.",
+   "motor": "Resistenza generale con la palla; incremento relativo della forza.",
+   "materials": "12 palloni n.4, 1 nastro, 28 cinesini, 14 coni, 6 porticine, 12 casacche",
+   "closing": "Qui si vede chi sa giocare quando c'è qualcuno addosso: annota i nomi, ti servirà.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Calcio tennis",
+     "minutes": 5,
+     "desc": "Cinque minuti di calcio tennis come attivazione. Regole ormai note: un rimbalzo per tocco, tre tocchi, giocatori diversi, battuta semplice.",
+     "variants": "Variante al volo per chi è pronto.",
+     "error": "Partire con intensità agonistica eccessiva.",
+     "behaviours": [
+      "Scambi lunghi, non punti rapidi",
+      "Rotazione continua",
+      "Attenzione alta fin dal primo minuto"
+     ],
+     "caption": "Attivazione percettiva",
+     "img": "img/esordientiA-w08-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Passa la palla (1)",
+     "minutes": 5,
+     "desc": "In uno spazio di 15 x 10 m quattro attaccanti hanno il compito di passarsi la palla da una metà campo all'altra. Due difensori, posti in una zona centrale profonda circa due metri, cercano di impedirlo. Rotazione dei ruoli ogni due minuti.",
+     "variants": "I due difensori si posizionano ciascuno in una metà campo creando una situazione di 2 contro 1; gioco libero 4 contro 2 contando i passaggi.",
+     "error": "Forzare il passaggio con la linea chiusa.",
+     "behaviours": [
+      "Si cerca la linea libera, non il passaggio più corto",
+      "Chi attende dall'altra parte si muove per aprire la linea",
+      "Primo tocco orientato verso il corridoio"
+     ],
+     "caption": "Trasmissione fra due metà con difensori centrali",
+     "img": "img/esordientiA-w08-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Attività intervallata con la palla",
+     "minutes": 5,
+     "desc": "Corsa a navetta di 6 m, poi si prende la palla, la si conduce per altri 6 m e la si passa con precisione a un compagno. Circa 15 secondi di lavoro e 15 di riposo, alternandosi con il compagno; poche serie brevi.",
+     "variants": "Tiro in porticina al posto del passaggio.",
+     "error": "Allungare le serie: il gesto peggiora e l'esercizio perde senso.",
+     "behaviours": [
+      "Precisione del passaggio anche a fine ripetizione",
+      "Guida controllata, non corsa con la palla lontana",
+      "Recupero rispettato"
+     ],
+     "caption": "Corsa, guida e passaggio di precisione",
+     "img": "img/esordientiA-w08-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "giovanissimiB",
+   "catName": "Giovanissimi B",
+   "year": "2013",
+   "day": "Martedì",
+   "week": 8,
+   "page": 45,
+   "title": "Dai e vai con tiro in porta",
+   "ref": "FIGC-SGS · Esordienti · Modulo 7 · Lezione 20 «L'incrocio degli attaccanti» — calciare con il collo del piede, palla in movimento; passaggio nello spazio vuoto",
+   "objective": "Alla fine della seduta il ragazzo conclude di collo piede su palla in movimento dopo una combinazione a due.",
+   "motor": "Coordinazione neuromuscolare; resistenza e rapidità.",
+   "materials": "12 palloni n.4/5, 1 nastro, 30 cinesini, 16 coni, 8 porticine, funicelle",
+   "closing": "Il dai e vai è il gesto collettivo più utile a questa età: pretendi che sia eseguito in corsa.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Calcio tennis al volo",
+     "minutes": 5,
+     "desc": "Dieci minuti di calcio tennis con colpi al volo, in forma di torneo interno. Attivazione tecnica e mentale della seduta.",
+     "variants": "Calciare solo di interno piede o solo con il piede debole.",
+     "error": "Trasformarlo in una gara di potenza.",
+     "behaviours": [
+      "Scambi lunghi, battuta semplice",
+      "Ogni tocco a un giocatore diverso",
+      "Rotazione dei ruoli"
+     ],
+     "caption": "Attivazione",
+     "img": "img/giovanissimiB-w08-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Dai e vai con tiro in porta",
+     "minutes": 5,
+     "desc": "A coppie: il giocatore A passa la palla a B, il quale effettua una sponda interna verso A che ha seguito l'azione e va al tiro di interno-collo. L'esercizio si esegue da entrambi i lati, alternando il piede di conclusione.",
+     "variants": "Il compagno riceve, esegue uno stop a seguire verso l'esterno e chiude il dai e vai all'interno per un terzo che conclude.",
+     "error": "Rallentare per sistemare la palla e perdere il vantaggio della combinazione.",
+     "behaviours": [
+      "La sponda si gioca di prima e nello spazio",
+      "Chi tira arriva in corsa: la palla non si ferma",
+      "Interno-collo per unire precisione e potenza"
+     ],
+     "caption": "Sponda interna e conclusione di interno-collo",
+     "img": "img/giovanissimiB-w08-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Traslocazioni e balzi con la funicella",
+     "minutes": 5,
+     "desc": "Serie brevi di saltelli con la funicella alternate a traslocazioni e balzi a carico naturale. Si cura la qualità dell'appoggio, non il numero di ripetizioni.",
+     "variants": "Alternare saltelli a piedi uniti e su una gamba sola.",
+     "error": "Continuare quando gli appoggi diventano pesanti.",
+     "behaviours": [
+      "Appoggi elastici sull'avampiede",
+      "Braccia coordinate con le gambe",
+      "Poche serie, molto curate"
+     ],
+     "caption": "Coordinazione e potenziamento naturale",
+     "img": "img/giovanissimiB-w08-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "pulcini",
+   "catName": "Pulcini",
+   "year": "2016",
+   "day": "Lunedì",
+   "week": 9,
+   "page": 47,
+   "title": "Passaggio radente e frontale con cambio di posizione",
+   "ref": "FIGC-SGS · Modulo 3 · Lezione 9 «Passa la palla e vai» — passaggio radente e frontale; reazione a uno stimolo visivo in situazione di gioco",
+   "objective": "Alla fine della seduta il bambino trasmette di interno rasoterra e si muove subito dopo per occupare la posizione libera.",
+   "motor": "Rapidità e precisione di esecuzione; visione periferica.",
+   "materials": "12 palloni n.4, 24 cinesini, 12 coni, 2 porticine",
+   "closing": "Chiudi il modulo 3: guidare, cambiare direzione e passare sono ormai i tre gesti di riferimento.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Quadrato psicocinetico a confronto",
+     "minutes": 5,
+     "desc": "Due squadre di quattro bambini si confrontano su due quadrati di 10 m, con un giocatore per angolo. Mentre un bambino passa la palla a un compagno (frontale o in diagonale), gli altri due devono scambiarsi di posto. Vince la squadra che arriva per prima a dieci passaggi consecutivi; se i due compagni non si scambiano, il conteggio riparte da zero.",
+     "variants": "Anche i due compagni che si sono passati la palla eseguono uno stop e un cambio di posto.",
+     "error": "Concentrarsi solo sulla palla dimenticando lo scambio di posizione.",
+     "behaviours": [
+      "Chi non ha la palla ha comunque un compito: è il cuore dell'esercizio",
+      "Passaggio rasoterra e sul piede del compagno",
+      "Guardare intorno prima di ricevere"
+     ],
+     "caption": "Passaggio e scambio di posizione",
+     "img": "img/pulcini-w09-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "A tre: passaggio e ricezione in successione",
+     "minutes": 5,
+     "desc": "Tre bambini disposti in linea a 12-15 m l'uno dall'altro. Il primo passa rasoterra e segue il proprio passaggio; il secondo esegue uno stop a seguire di interno piede e trasmette al terzo, che ripete. Si prosegue avanti e indietro, curando la correttezza del gesto.",
+     "variants": "A tre senza ricezione a seguire (di prima); con gioco a muro in successione.",
+     "error": "Fermare la palla sotto i piedi e poi ripartire: si perde il senso dell'esercizio.",
+     "behaviours": [
+      "Lo stop a seguire porta la palla avanti, nella direzione del passaggio",
+      "Due tocchi: uno per orientare, uno per passare",
+      "Distanza costante fra le stazioni"
+     ],
+     "caption": "Dai e segui con stop a seguire",
+     "img": "img/pulcini-w09-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Gara a staffetta con arresto",
+     "minutes": 5,
+     "desc": "Percorso di 15 m: sprint di 5 m senza palla, guida della palla per 5 m, arresto netto della palla nella zona e sprint finale di 5 m. Poi si dà il cambio al compagno. Serie brevi.",
+     "variants": "Variare l'ordine dei compiti o la lunghezza dei tratti.",
+     "error": "Confondere l'ordine dei compiti per la fretta.",
+     "behaviours": [
+      "Tre compiti diversi in quindici metri: la transizione fra uno e l'altro è l'obiettivo",
+      "L'arresto deve essere immediato",
+      "Recupero pieno fra le ripetizioni"
+     ],
+     "caption": "Sprint, guida, arresto, sprint",
+     "img": "img/pulcini-w09-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiB",
+   "catName": "Esordienti B",
+   "year": "2015",
+   "day": "Lunedì",
+   "week": 9,
+   "page": 48,
+   "title": "Tecnica individuale e primo contatto con il calcio al volo",
+   "ref": "FIGC-SGS · Esordienti · Modulo 1 · Lezione 1 «Giochiamo a calcio tennis» — tecnica individuale e sensibilità neuromuscolare; colpire la palla al volo",
+   "objective": "Alla fine della seduta il ragazzo colpisce la palla al volo dopo un rimbalzo e ne controlla la traiettoria.",
+   "motor": "Sensibilità neuromuscolare e dosaggio della forza.",
+   "materials": "12 palloni n.4 + 4 morbidi, 1 nastro o elastico + 4 paletti, 28 cinesini, 12 coni",
+   "closing": "Il calcio tennis apre le sedute Esordienti: monta il nastro prima che i ragazzi arrivino, così cominciano da soli.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Attività di sensibilizzazione con la palla",
+     "minutes": 5,
+     "desc": "Ogni ragazzo con il proprio pallone: esercizi di tecnica individuale, guida con superfici diverse, palleggi liberi. Si cerca la sensibilità senso-motoria e il giusto dosaggio neuromuscolare, variando ritmo e ampiezza dei tocchi.",
+     "variants": "Guide su base ritmica; guida, finta e dribbling; esercitazioni a due o tre giocatori.",
+     "error": "Ripetere sempre gli stessi due gesti che riescono già bene.",
+     "behaviours": [
+      "Un pallone a testa: il numero di tocchi è l'obiettivo",
+      "Si alternano gesti già noti e gesti nuovi",
+      "Ritmo variabile: lento per capire, veloce per consolidare"
+     ],
+     "caption": "Rapporto palla-giocatore 1 a 1",
+     "img": "img/esordientiB-w09-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Calcio tennis",
+     "minutes": 5,
+     "desc": "Si gioca 3 contro 3 in uno spazio di circa 16 x 10 m diviso da un nastro. Le squadre mandano la palla nel campo avversario cercando di impedire che faccia due rimbalzi consecutivi. La palla può rimbalzare una volta prima di ogni tocco; massimo tre tocchi per squadra e a ogni tocco deve intervenire un giocatore diverso.",
+     "variants": "Rotazione dei giocatori a ogni cambio palla; ogni tocco eseguito da un giocatore diverso.",
+     "error": "Colpire sempre di potenza: la palla finisce fuori e il gioco si ferma.",
+     "behaviours": [
+      "Andare sotto la palla e leggere la traiettoria in anticipo",
+      "Il tocco è dosato, non violento: serve mandarla, non spararla",
+      "La battuta deve essere semplice, altrimenti si ripete"
+     ],
+     "caption": "3 contro 3 sopra il nastro",
+     "img": "img/esordientiB-w09-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Calciare sopra e sotto il nastro",
+     "minutes": 5,
+     "desc": "Esercizio a coppie con palla ferma: si calcia e si riceve facendo passare la palla sopra il nastro (traiettoria a parabola, interno-collo) oppure sotto (rasoterra, collo del piede). Si alternano le due modalità curando la parte analitica del gesto.",
+     "variants": "Calciare con il piede destro e con il sinistro; calciare con palla in movimento.",
+     "error": "Cercare la potenza invece della traiettoria richiesta.",
+     "behaviours": [
+      "Sopra: si colpisce sotto la palla, piede aperto",
+      "Sotto: si colpisce al centro, caviglia bloccata",
+      "Il gesto va corretto adesso, con palla ferma"
+     ],
+     "caption": "Interno-collo a parabola e collo rasoterra",
+     "img": "img/esordientiB-w09-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiA",
+   "catName": "Esordienti A",
+   "year": "2014",
+   "day": "Martedì",
+   "week": 9,
+   "page": 49,
+   "title": "Gioco a muro nel quadrato e conclusione",
+   "ref": "FIGC-SGS · Modulo 3 · Lezione 9 «Trova lo spazio e vai in porta» — colpo di testa e tiro in porta; gioco a muro con l'attaccante di spalle",
+   "objective": "Alla fine della seduta il ragazzo gioca di prima da posizione di spalle e serve il compagno che si smarca in profondità.",
+   "motor": "Rapidità; resistenza allo sprint con contenuti tecnici.",
+   "materials": "12 palloni n.4, 1 nastro, 28 cinesini, 14 coni, 6 porticine, 12 casacche",
+   "closing": "Il gioco a muro è l'azione chiave del modulo 3: fallo nominare ai ragazzi ogni volta che riesce.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Calcio tennis a coppie",
+     "minutes": 5,
+     "desc": "Calcio tennis a coppie con il nastro, cinque minuti. Serve ad attivare la sensibilità e la capacità di anticipazione prima del lavoro sul gioco a muro.",
+     "variants": "Colpire solo di interno piede.",
+     "error": "Trasformarlo in una gara di potenza.",
+     "behaviours": [
+      "Anticipare la traiettoria",
+      "Tocco morbido",
+      "Alternanza dei ruoli"
+     ],
+     "caption": "Attivazione al volo",
+     "img": "img/esordientiA-w09-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "A tre: gioco a muro nel quadrato e tiro in porta",
+     "minutes": 5,
+     "desc": "In un quadrato ampio si dispongono tre ragazzi a triangolo, su tre angoli. Dopo un passaggio e un movimento di appoggio dell'attaccante verso il compagno posto frontalmente, si esegue un gioco a muro; segue un passaggio rasoterra per il terzo compagno che si è smarcato in profondità verso l'angolo lasciato libero. Ricevuta la palla fuori dal quadrato, si conclude. Rotazione dei ruoli in senso orario.",
+     "variants": "Con cross e tiro finale (passaggio finale a parabola); passaggio di ritorno a un altro compagno.",
+     "error": "Due giocatori che attaccano lo stesso spazio.",
+     "behaviours": [
+      "Chi fa da muro gioca di prima e non si gira",
+      "Il terzo si smarca verso l'angolo libero, non verso la palla",
+      "La conclusione arriva in corsa"
+     ],
+     "caption": "L'attaccante di spalle alla porta",
+     "img": "img/esordientiA-w09-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Trova la profondità",
+     "minutes": 5,
+     "desc": "Passaggio in diagonale e in profondità dopo un gioco a muro centrale. I due centrali si alternano con i due esterni a ogni ripetizione. Lo scatto parte nell'istante in cui avviene il passaggio all'indietro. Sprint a coppie con 30-40 secondi di recupero, poche ripetizioni.",
+     "variants": "Con tiro in porta finale; gioco a muro diagonale e passaggio verso il lato non occupato.",
+     "error": "Partire in anticipo e ricevere fermi.",
+     "behaviours": [
+      "Lo scatto parte con il passaggio, non dopo",
+      "Il passaggio in profondità va davanti a chi corre",
+      "Recupero pieno fra le ripetizioni"
+     ],
+     "caption": "Passaggio diagonale dopo il muro",
+     "img": "img/esordientiA-w09-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "giovanissimiB",
+   "catName": "Giovanissimi B",
+   "year": "2013",
+   "day": "Martedì",
+   "week": 9,
+   "page": 50,
+   "title": "Precisione del calcio a parabola",
+   "ref": "FIGC-SGS · Esordienti · Modulo 7 · Lezione 21 «Gioca con la sponda e vai al cross» — stabilità del calciare di interno-collo a parabola con palla ferma e in movimento",
+   "objective": "Alla fine della seduta il ragazzo calcia a parabola con precisione su distanze lunghe e riceve la palla alta con un controllo giocabile.",
+   "motor": "Mobilità articolare; precisione esecutiva su distanze variabili.",
+   "materials": "12 palloni n.4/5, 30 cinesini, 16 coni, 8 porticine",
+   "closing": "La precisione sulle lunghe distanze è il gesto che distingue un U14 formato: dedicaci tempo.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Calcio a parabola in uno spazio delimitato",
+     "minutes": 5,
+     "desc": "Due spazi uguali di circa 10 x 10 m, distanti 25-30 m. Una coppia di giocatori si confronta in una gara: si calcia la palla a parabola cercando di farla cadere nello spazio dell'avversario. Un punto per ogni palla che cade dentro.",
+     "variants": "Passaggio rasoterra e calcio a parabola al volo frontalmente; passaggio rasoterra, ricezione a seguire verso l'esterno del quadrato e calcio a parabola.",
+     "error": "Calciare al massimo della forza: la palla esce sempre dallo spazio.",
+     "behaviours": [
+      "Rincorsa leggermente laterale, piede d'appoggio a fianco",
+      "Si colpisce la parte bassa della palla",
+      "La distanza si regola con l'ampiezza del gesto, non con la forza"
+     ],
+     "caption": "Gara di precisione sulle lunghe distanze",
+     "img": "img/giovanissimiB-w09-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "A due coppie con palla in movimento",
+     "minutes": 5,
+     "desc": "Nei due spazi si confrontano due coppie. Si calcia la palla a parabola nello spazio opposto, si esegue uno stop e si passa al compagno che si trova fuori dal quadrato. Dopo un gioco a muro si ripete l'azione calciando di prima intenzione la palla a parabola nello spazio opposto.",
+     "variants": "Passaggio rasoterra e calcio a parabola al volo frontalmente, a turno, con ricezione e gioco a muro con l'esterno.",
+     "error": "Controllare la palla con troppi tocchi rompendo il ritmo dell'esercizio.",
+     "behaviours": [
+      "Lo stop deve lasciare la palla giocabile in un tocco",
+      "Il muro si gioca di prima",
+      "Precisione su distanze brevi e lunghe alternate"
+     ],
+     "caption": "Parabola, stop e gioco a muro",
+     "img": "img/giovanissimiB-w09-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Mobilità articolare con la palla",
+     "minutes": 5,
+     "desc": "Sequenza di mobilità e allungamento eseguita usando la palla come riferimento, alternata a brevi fasi di guida. Chiude la parte tecnica e prepara alla chiusura della seduta.",
+     "variants": "A coppie con una palla sola.",
+     "error": "Saltarlo per mancanza di tempo: è parte del programma.",
+     "behaviours": [
+      "Movimenti lenti e ampi",
+      "Si continua a toccare la palla",
+      "Respirazione regolare"
+     ],
+     "caption": "Allungamento con l'attrezzo",
+     "img": "img/giovanissimiB-w09-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "pulcini",
+   "catName": "Pulcini",
+   "year": "2016",
+   "day": "Lunedì",
+   "week": 10,
+   "page": 52,
+   "title": "Ricezione e conduzione dopo il passaggio",
+   "ref": "FIGC-SGS · Modulo 4 · Lezione 10 «Ricevi e guida la palla» — trasmissione e ricezione radente e diagonale; orientamento nello spazio libero",
+   "objective": "Alla fine della seduta il bambino riceve un passaggio rasoterra, lo controlla e riparte in conduzione verso lo spazio libero.",
+   "motor": "Combinare più azioni motorie; gestione dello spazio.",
+   "materials": "12 palloni n.4, 28 cinesini, 12 coni, 6 porticine, 2 sponde (o due compagni fissi)",
+   "closing": "Questa è la seduta più completa del trimestre: passaggio, ricezione, conduzione e decisione insieme.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Guida e gioca con la sponda",
+     "minutes": 5,
+     "desc": "Percorso con birilli e altri attrezzi lungo il quale sono posizionate una o due sponde (un compagno fisso o un attrezzo che rimanda la palla). Il bambino conduce, esegue un dai e vai con la sponda, prosegue e al termine del percorso conclude nella porticina.",
+     "variants": "Percorso eseguito solo di interno o solo di esterno; solo con il destro o solo con il sinistro; a tempo.",
+     "error": "Fermarsi ad aspettare il ritorno della sponda.",
+     "behaviours": [
+      "Il passaggio alla sponda è teso e sul piede",
+      "Si riparte subito dopo aver passato, non dopo aver guardato",
+      "Il ritorno si riceve in movimento"
+     ],
+     "caption": "Dai e vai con la sponda e conclusione",
+     "img": "img/pulcini-w10-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Passaggi nel quadrato",
+     "minutes": 5,
+     "desc": "Due bambini si passano la palla in un quadrato di 5 m per lato delimitato da quattro coni. Chi riceve (il primo passaggio è frontale) conduce la palla nell'angolo girando attorno al cono e passa quindi in diagonale all'angolo opposto per il compagno, che ripete lo stesso movimento. Chi passa torna sempre in posizione centrale.",
+     "variants": "Passaggio dall'angolo destro o sinistro; di interno o di collo piede; a gara, chi effettua più passaggi in tre minuti.",
+     "error": "Girare largo attorno al cono allungando i tempi.",
+     "behaviours": [
+      "Il passaggio in diagonale richiede di orientare bene il corpo",
+      "Girare stretto attorno al cono",
+      "Tornare al centro subito dopo aver passato"
+     ],
+     "caption": "Passaggio, guida all'angolo, diagonale",
+     "img": "img/pulcini-w10-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Ricevi la palla e prendi il posto (4 cantoni)",
+     "minutes": 5,
+     "desc": "Nello spazio si dispongono alcune porticine, una in meno rispetto ai bambini. Ogni gruppo ha un pallone. Chi ha la palla passa a un compagno e ne prende il posto; nel frattempo gli altri si scambiano di porticina, e chi resta con la palla la conduce nella porticina rimasta vuota, ricominciando il gioco.",
+     "variants": "Chi entra in possesso di palla tira nella porticina libera; chi passa va a difendere le porticine libere; il gioco inizia con un doppio passaggio.",
+     "error": "Muoversi a caso senza guardare le porticine.",
+     "behaviours": [
+      "Percepire, decidere, agire: bisogna vedere quale porticina resta libera",
+      "Il passaggio va fatto quando il compagno è pronto",
+      "Si conduce nella porticina, non si calcia"
+     ],
+     "caption": "Passaggio e cambio di porticina",
+     "img": "img/pulcini-w10-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiB",
+   "catName": "Esordienti B",
+   "year": "2015",
+   "day": "Lunedì",
+   "week": 10,
+   "page": 53,
+   "title": "Passaggio e ricezione nello spazio adiacente",
+   "ref": "FIGC-SGS · Esordienti · Modulo 1 · Lezione 3 «Passa e ricevi in movimento» — passaggio e ricezione, anche al volo",
+   "objective": "Alla fine della seduta il ragazzo si smarca prima che il passaggio parta e riceve analizzando spazio e tempo della palla.",
+   "motor": "Capacità di reazione e occupazione dello spazio libero.",
+   "materials": "12 palloni n.4, 1 nastro + 4 paletti, 28 cinesini, 12 coni, 12 casacche",
+   "closing": "Il messaggio nuovo per gli Esordienti: lo smarcamento viene prima del passaggio.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Passaggio e ricezione a coppie nello spazio",
+     "minutes": 5,
+     "desc": "A coppie, in due quadrati adiacenti. Si eseguono passaggi e ricezioni nelle varie direzioni cercando precisione e qualità dello smarcamento, che deve avvenire prima del passaggio. La palla viene calciata rasoterra e con forza di interno piede nello spazio del compagno, che in base alla traiettoria analizza spazio e tempo della ricezione. Dopo la ricezione si ripassa la palla e ci si ridispone al centro.",
+     "variants": "Passaggio a parabola; con gioco a muro.",
+     "error": "Aspettare la palla fermi al centro del proprio quadrato.",
+     "behaviours": [
+      "Prima ci si smarca, poi parte il passaggio: mai il contrario",
+      "La palla va nello spazio del compagno, non sui suoi piedi da fermo",
+      "Dopo il passaggio si torna al centro pronti"
+     ],
+     "caption": "Trasmissione fra due quadrati",
+     "img": "img/esordientiB-w10-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Calcio tennis",
+     "minutes": 5,
+     "desc": "Stesso gioco della settimana scorsa. Ora si prova la variante senza rimbalzo su almeno uno dei tre tocchi. La battuta resta semplice e si ruotano le posizioni a ogni cambio di palla.",
+     "variants": "Dopo ogni tocco correre a toccare la linea di fondo; toccare un cono posto fuori dal campo.",
+     "error": "Insistere sul volo quando il gruppo non è ancora pronto: si torna al rimbalzo.",
+     "behaviours": [
+      "Leggere la traiettoria e posizionarsi in anticipo",
+      "Il tocco al volo è più difficile: si dosa ancora di più",
+      "Ogni tocco a un giocatore diverso"
+     ],
+     "caption": "Ripresa del gioco al volo",
+     "img": "img/esordientiB-w10-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Navetta 8 + 8 metri",
+     "minutes": 5,
+     "desc": "Navetta di 8 m in andata e ritorno; al termine si prende una palla posta a lato, la si conduce brevemente e la si passa con precisione a un compagno. Una esecuzione ogni 45-50 secondi, serie da poche ripetizioni con recupero attivo.",
+     "variants": "Tiro in porticina al posto del passaggio; il compagno esegue palleggi mentre attende.",
+     "error": "Aumentare le ripetizioni: la qualità del gesto crolla subito.",
+     "behaviours": [
+      "La precisione del passaggio non deve calare dopo la corsa",
+      "Frenata e cambio di senso con corpo basso",
+      "Recupero attivo, non seduti"
+     ],
+     "caption": "Rapidità e controllo dopo la corsa",
+     "img": "img/esordientiB-w10-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiA",
+   "catName": "Esordienti A",
+   "year": "2014",
+   "day": "Martedì",
+   "week": 10,
+   "page": 54,
+   "title": "Stabilità del gesto: sopra o sotto il nastro",
+   "ref": "FIGC-SGS · Modulo 4 · Lezione 10 «Passo sopra o passo sotto?» — colpire e ricevere in stabilità didattica; colpo di testa",
+   "objective": "Alla fine della seduta il ragazzo sceglie consapevolmente fra traiettoria rasoterra e a parabola e colpisce di testa in movimento.",
+   "motor": "Mobilità articolare; resistenza intermittente con la palla.",
+   "materials": "12 palloni n.4 + 4 morbidi, 1 nastro + 4 paletti, 30 cinesini, 14 coni, 6 porticine",
+   "closing": "Chiedi ai ragazzi di dichiarare prima del gesto se passeranno sopra o sotto: rende consapevole la scelta.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Sopra/sotto",
+     "minutes": 5,
+     "desc": "A coppie: si calcia sopra il nastro di interno-collo e sotto il nastro di collo del piede, con palla ferma e poi in movimento. Si cura la parte analitica sia del calciare sia del ricevere, correggendo un dettaglio per volta.",
+     "variants": "Eseguire dopo una fase di muro con il compagno che poi riceverà il passaggio.",
+     "error": "Alternare i due gesti a caso senza dichiarare quale si sta eseguendo.",
+     "behaviours": [
+      "Sopra: piede aperto, contatto sotto la palla",
+      "Sotto: contatto pieno al centro, busto sopra la palla",
+      "Il ricevere conta quanto il calciare"
+     ],
+     "caption": "Correzione analitica del gesto",
+     "img": "img/esordientiA-w10-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Colpo di testa",
+     "minutes": 5,
+     "desc": "Esecuzione del colpo di testa da fermo e poi in movimento, per superare il nastro. Si spiegano le posizioni fondamentali e si corregge analiticamente il gesto. Si usano anche palloni di gomma.",
+     "variants": "Da fermo in posizione esatta; in movimento con appoggi laterali; con un compagno davanti (difensore) o dietro (attaccante); palleggio di testa a coppie sul nastro.",
+     "error": "Colpire con la sommità del capo: il gesto è sbagliato e fa male.",
+     "behaviours": [
+      "Contatto con la fronte, occhi aperti",
+      "Arco del busto e spinta in avanti",
+      "In movimento si arriva sulla palla, non la si aspetta"
+     ],
+     "caption": "Da fermo e in movimento",
+     "img": "img/esordientiA-w10-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Attività intermittente con la palla",
+     "minutes": 5,
+     "desc": "Navetta breve alternata a un gesto tecnico (guida, passaggio o conclusione). Circa 15 secondi di lavoro e 15 di riposo, alternandosi con il compagno, per poche serie. È il contenuto fisico della seduta, sempre con la palla.",
+     "variants": "Cambiare il gesto tecnico a ogni serie.",
+     "error": "Aggiungere serie fino a far crollare la qualità.",
+     "behaviours": [
+      "Il gesto tecnico resta pulito anche a fine ripetizione",
+      "Frenate e ripartenze con corpo basso",
+      "Recupero rispettato"
+     ],
+     "caption": "Corsa e gesto tecnico alternati",
+     "img": "img/esordientiA-w10-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "giovanissimiB",
+   "catName": "Giovanissimi B",
+   "year": "2013",
+   "day": "Martedì",
+   "week": 10,
+   "page": 55,
+   "title": "Perfezionamento delle abilità tecniche",
+   "ref": "FIGC-SGS · Esordienti · Modulo 8 · Lezione 22 «Perfeziona e verifica» — perfezionamento percettivo delle abilità tecniche; rapidità e velocità",
+   "objective": "Alla fine della seduta il ragazzo ha ripassato e rinforzato tutte le abilità del ciclo, eseguendole con velocità di esecuzione più alta.",
+   "motor": "Rapidità, velocità e mobilità articolare.",
+   "materials": "12 palloni n.4/5, 1 nastro, 30 cinesini, 16 coni, 8 porticine",
+   "closing": "Il modulo 8 è la fase di perfezionamento: correggi i dettagli, non i fondamenti.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Torneo interno di calcio tennis al volo",
+     "minutes": 5,
+     "desc": "Squadre da tre o quattro giocatori all'interno del gruppo, con incontri di andata e ritorno, tabellone dei risultati e gare finali. Dopo il primo rimbalzo si eseguono almeno tre colpi al volo, ognuno giocato da un giocatore diverso. La battuta deve permettere alla squadra avversaria di giocare facilmente.",
+     "variants": "Colpire solo di interno piede; solo con il piede debole.",
+     "error": "Cercare il punto invece dello scambio.",
+     "behaviours": [
+      "Differenziare forza e direzione a ogni colpo",
+      "Battuta accessibile: lo scambio è l'obiettivo",
+      "Rotazione dei ruoli e del turno di battuta"
+     ],
+     "caption": "Girone con tabellone",
+     "img": "img/giovanissimiB-w10-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Sensibilizzazione con la palla",
+     "minutes": 5,
+     "desc": "Ogni giocatore con un pallone. Si stimolano le capacità senso-percettive soprattutto attraverso palleggi eseguiti nei modi più diversi, includendo esercizi proposti dai ragazzi stessi. È la fase di rinforzo con contenuti vecchi e nuovi.",
+     "variants": "Guide su base musicale; guida, finta e dribbling; esercitazioni a due o tre giocatori.",
+     "error": "Fare sempre le stesse due varianti.",
+     "behaviours": [
+      "Tanti tocchi, molte varianti",
+      "Le proposte dei ragazzi vanno accolte e provate",
+      "Entrambi i piedi, sempre"
+     ],
+     "caption": "Ripasso e potenziamento delle abilità",
+     "img": "img/giovanissimiB-w10-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Navetta 6 + 6 metri con guida e tiro",
+     "minutes": 5,
+     "desc": "Corsa veloce di 6 m in andata e ritorno, poi ci si impossessa della palla raggiungendo rapidamente la zona di tiro, da dove si conclude. Vince chi fa entrare per primo il proprio pallone nella porticina. Serie brevi con recupero.",
+     "variants": "Cambiare di volta in volta il gesto tecnico per andare al tiro; posizioni di partenza diverse.",
+     "error": "Calciare di fretta e di punta per arrivare primi.",
+     "behaviours": [
+      "La conclusione resta pulita anche dopo la corsa",
+      "Ultimo passo di appoggio a fianco della palla",
+      "Recupero pieno fra le ripetizioni"
+     ],
+     "caption": "Rapidità e conclusione",
+     "img": "img/giovanissimiB-w10-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "pulcini",
+   "catName": "Pulcini",
+   "year": "2016",
+   "day": "Lunedì",
+   "week": 11,
+   "page": 57,
+   "title": "Passa e muoviti: la trasmissione in forma dinamica",
+   "ref": "FIGC-SGS · Modulo 4 · Lezione 11 «Ricevi e supera l'avversario» — trasmissione radente e frontale; capire che dopo un passaggio segue sempre un'azione senza palla",
+   "objective": "Alla fine della seduta il bambino capisce che dopo aver passato la palla deve muoversi, e lo fa senza che glielo si ricordi.",
+   "motor": "Combinare e coordinare più azioni motorie; mobilità articolare con la palla.",
+   "materials": "12 palloni n.4, 28 cinesini, 12 coni, 4 porticine",
+   "closing": "Frase da ripetere per tutta la seduta: «passa e vai, non passa e guarda».",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Cambia posto",
+     "minutes": 5,
+     "desc": "Due bambini si passano la palla. Uno passa e segue il proprio passaggio; chi riceve conduce e va a prendere il posto del compagno che gliel'ha passata. Si prosegue in continuità, poi si allarga a gruppi di quattro con due palloni.",
+     "variants": "Passaggio con parti diverse del piede o con il piede non dominante; il cambio di posto avviene dopo un certo numero di passaggi.",
+     "error": "Passare e restare fermi ad aspettare il ritorno.",
+     "behaviours": [
+      "Dopo il passaggio parte sempre un movimento",
+      "Chi riceve controlla in avanti, verso il posto da occupare",
+      "Voce per non scontrarsi quando i palloni sono due"
+     ],
+     "caption": "Passa e segui, ricevi e prendi il posto",
+     "img": "img/pulcini-w11-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Attività di sensibilizzazione con la palla",
+     "minutes": 5,
+     "desc": "Ogni bambino con un pallone. Sequenza calma: rullata interno-interno, tocchi di suola alternati, palla condotta attorno al corpo, allungamenti eseguiti usando la palla come punto di appoggio o di riferimento. Serve anche a rimettere ordine e concentrazione a metà seduta.",
+     "variants": "A coppie con una palla sola; due gruppi che si scambiano di spazio.",
+     "error": "Trasformarlo in un momento di confusione: serve un tono di voce calmo.",
+     "behaviours": [
+      "Movimenti ampi e lenti: qui non si corre",
+      "Il pallone diventa un attrezzo per muovere le articolazioni",
+      "Si respira e si ascolta"
+     ],
+     "caption": "Mobilità articolare e dominio",
+     "img": "img/pulcini-w11-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Gare a staffetta fra i paletti",
+     "minutes": 5,
+     "desc": "Percorso di 15 m: 10 m di corsa veloce fra i paletti posti a terra e 5 m di sprint finale, poi cambio con il compagno. È il lavoro di rapidità della seduta.",
+     "variants": "Aumentare o ridurre la distanza fra i paletti.",
+     "error": "Rallentare nell'ultimo tratto perché si è stanchi: meglio fermarsi prima.",
+     "behaviours": [
+      "Appoggi rapidi fra i paletti, poi allungo",
+      "Non si toccano i paletti",
+      "Poche ripetizioni, tutte al massimo"
+     ],
+     "caption": "Corsa veloce e sprint",
+     "img": "img/pulcini-w11-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiB",
+   "catName": "Esordienti B",
+   "year": "2015",
+   "day": "Lunedì",
+   "week": 11,
+   "page": 58,
+   "title": "Guida, dribbling e tiro",
+   "ref": "FIGC-SGS · Esordienti · Modulo 2 · Lezione 4 «Gioca, crea e vai al goal» — passaggio e ricezione in movimento; superamento dell'avversario e conclusione rapida",
+   "objective": "Alla fine della seduta il ragazzo supera un avversario in conduzione e conclude rapidamente.",
+   "motor": "Rapidità decisionale in situazione semplificata.",
+   "materials": "12 palloni n.4, 1 nastro + 4 paletti, 28 cinesini, 12 coni, 6 porticine, 12 casacche",
+   "closing": "Osserva chi prova il dribbling e chi lo evita: incoraggia i secondi, non correggere i primi.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Calcio tennis - torneo",
+     "minutes": 5,
+     "desc": "Torneo interno 3 contro 3 con girone all'italiana: in ogni seduta si gioca una partita. A ogni tocco può precedere un rimbalzo e a ogni tocco deve intervenire un giocatore diverso. La battuta va effettuata in modo accessibile e può essere rifiutata. Rotazione delle posizioni a ogni cambio di palla.",
+     "variants": "Se le squadre sono dispari, chi riposa entra per le sostituzioni; variare l'altezza del nastro.",
+     "error": "Battute impossibili per fare punto: lo scambio non parte mai.",
+     "behaviours": [
+      "La battuta semplice fa durare gli scambi: è nell'interesse di tutti",
+      "Rotazione continua, tutti toccano la palla",
+      "Si tiene un tabellone: motiva ad arrivare prima al campo"
+     ],
+     "caption": "Girone interno 3 contro 3",
+     "img": "img/esordientiB-w11-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Guida, dribbling e tiro",
+     "minutes": 5,
+     "desc": "Utilizzando un quadrato come spazio, il giocatore in possesso parte da un angolo in conduzione verso la porticina affrontando un difensore. Deve superarlo in dribbling e concludere rapidamente. Lo stesso avviene sul lato opposto, così due coppie lavorano contemporaneamente.",
+     "variants": "Possibilità di chiedere aiuto al compagno d'attacco; chi conduce esegue una sovrapposizione con il compagno.",
+     "error": "Fintare da fermo e senza cambio di ritmo.",
+     "behaviours": [
+      "Attaccare il difensore, non girargli attorno da lontano",
+      "Dopo il dribbling due passi esplosivi e conclusione",
+      "La conclusione arriva subito: non si aspetta di essere perfetti"
+     ],
+     "caption": "Superamento e conclusione rapida",
+     "img": "img/esordientiB-w11-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Calciare sopra e sotto il nastro",
+     "minutes": 5,
+     "desc": "Come nella settimana 9, ora con palla in movimento: il compagno passa rasoterra e si calcia sopra o sotto il nastro di prima o dopo un controllo. Si alternano i due piedi.",
+     "variants": "Eseguire dopo una fase di muro con il compagno che poi riceverà il passaggio.",
+     "error": "Colpire la palla in ritardo e alzarla senza controllo.",
+     "behaviours": [
+      "Con palla in movimento cambia il tempo del gesto",
+      "Sopra: piede aperto sotto la palla. Sotto: contatto pieno al centro",
+      "Entrambi i piedi, sempre"
+     ],
+     "caption": "Consolidamento del gesto",
+     "img": "img/esordientiB-w11-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiA",
+   "catName": "Esordienti A",
+   "year": "2014",
+   "day": "Martedì",
+   "week": 11,
+   "page": 59,
+   "title": "Ricezione e protezione sotto pressione",
+   "ref": "FIGC-SGS · Modulo 4 · Lezione 11 «Difendi la palla» — colpire e ricevere sotto pressione; protezione della palla",
+   "objective": "Alla fine della seduta il ragazzo riceve con un avversario addosso, protegge la palla e restituisce al compagno.",
+   "motor": "Mobilità articolare; resistenza specifica.",
+   "materials": "12 palloni n.4, 30 cinesini, 14 coni, 6 porticine, 12 casacche",
+   "closing": "La protezione della palla è tecnica, non forza: falla vedere lentamente, con il braccio che sente e non che spinge.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Passa la palla (2)",
+     "minutes": 5,
+     "desc": "In uno spazio di 15 x 10 m quattro attaccanti devono passare la palla ai compagni dell'altro campo eludendo l'opposizione attiva di tre difensori. Per eludere l'avversario è consentito anche passare la palla all'interno dello stesso spazio, quindi il gioco richiede pazienza e rapidità decisionale.",
+     "variants": "Inserire un quinto attaccante; se il difensore conquista la palla può fare punto passandola al compagno nel corridoio.",
+     "error": "Cercare sempre il passaggio lungo, che è quello più controllato dai difensori.",
+     "behaviours": [
+      "Si può giocare corto per aprire la linea lunga",
+      "Il primo tocco decide se il passaggio successivo è possibile",
+      "Voce e movimento continui"
+     ],
+     "caption": "Trasmissione con opposizione attiva",
+     "img": "img/esordientiA-w11-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Proteggo la palla",
+     "minutes": 5,
+     "desc": "L'attaccante riceve la palla sotto la pressione di un difensore attivo. Dopo alcune finte si libera dell'avversario, protegge la palla e la restituisce al compagno. Progressione: difensore passivo, poi semi-attivo, poi attivo.",
+     "variants": "Restituire la palla di prima intenzione; passare la palla a un terzo giocatore che si muove liberamente.",
+     "error": "Girarsi sempre a prescindere da dove si trova il difensore.",
+     "behaviours": [
+      "Guardarsi alle spalle prima che la palla arrivi",
+      "Corpo fra palla e avversario, braccio a sentire",
+      "Si trova la risposta tecnica adeguata: girarsi se c'è spazio, scaricare se non c'è"
+     ],
+     "caption": "Ricevere sotto pressione e restituire",
+     "img": "img/esordientiA-w11-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "2 contro 1 in continuità",
+     "minutes": 5,
+     "desc": "Serie di azioni di 2 contro 1 eseguite in continuità: circa 20 secondi di lavoro e 15 di riposo, per poche serie, con inversione dei ruoli fra chi attacca e chi difende alla fine di ogni serie.",
+     "variants": "Variare le distanze; variare i tempi di lavoro e di riposo.",
+     "error": "Trasformarlo in un lavoro continuo senza pause.",
+     "behaviours": [
+      "Portare palla verso il difensore prima di scegliere",
+      "Il compagno crea distanza allargandosi",
+      "Recupero rispettato fra le azioni"
+     ],
+     "caption": "Azioni ripetute con recupero",
+     "img": "img/esordientiA-w11-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "giovanissimiB",
+   "catName": "Giovanissimi B",
+   "year": "2013",
+   "day": "Martedì",
+   "week": 11,
+   "page": 60,
+   "title": "Consolidamento tecnico in velocità",
+   "ref": "FIGC-SGS · Esordienti · Modulo 8 — consolidamento: tecnica individuale, calcio a parabola e conclusione in regime di velocità",
+   "objective": "Alla fine della seduta il ragazzo esegue guida, finta, parabola e conclusione mantenendo qualità anche con poco tempo a disposizione.",
+   "motor": "Velocità di esecuzione; adattamento a un ambiente variabile.",
+   "materials": "12 palloni n.4/5, 1 nastro, 30 cinesini, 16 coni, 8 porticine, 12 casacche",
+   "closing": "Ultima seduta di lavoro prima della verifica: chiudi elogiando la velocità di esecuzione raggiunta.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Tecnica individuale: guide e finte",
+     "minutes": 5,
+     "desc": "Stesse esercitazioni della settimana 2, ora eseguite a ritmo più alto e con opposizione passiva di un avversario. Ogni finta si chiude con un passaggio a un compagno, così il gesto individuale sfocia sempre in una giocata utile.",
+     "variants": "Treccia con pallonetto; guida, finte e passaggio in profondità.",
+     "error": "Aumentare la velocità perdendo il controllo della palla.",
+     "behaviours": [
+      "Ritmo alto ma gesto pulito",
+      "L'opposizione passiva dà il riferimento, non contrasta",
+      "Ogni finta termina con una giocata"
+     ],
+     "caption": "Repertorio a ritmo alto",
+     "img": "img/giovanissimiB-w11-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Porticine dislocate nel quadrato",
+     "minutes": 5,
+     "desc": "In uno spazio di circa 25 x 25 m sono dislocate porticine larghe 1,5 m. A coppie si eseguono passaggi e ricezioni in movimento attraverso le porticine non occupate in quell'istante dalle altre coppie. Passaggio rasoterra; ricezione sul posto o a seguire.",
+     "variants": "In dai e segui nella porticina; in dai e vai; con tempo prestabilito.",
+     "error": "Puntare sempre alla stessa porticina comoda.",
+     "behaviours": [
+      "L'ambiente cambia in continuazione: si guarda prima di decidere",
+      "Ricezione a seguire quando c'è spazio",
+      "Passaggio preciso dentro la porticina"
+     ],
+     "caption": "Trasmissione in ambiente flessibile",
+     "img": "img/giovanissimiB-w11-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Navetta 6 + 6 con guida e tiro",
+     "minutes": 5,
+     "desc": "Come nella settimana 10, con il gesto tecnico di conclusione cambiato a ogni serie: interno, collo pieno, interno-collo, piede debole. Serie brevi con recupero pieno.",
+     "variants": "Posizioni di partenza diverse; conclusione dopo un controllo di palla alta.",
+     "error": "Ripetere fino alla stanchezza: la conclusione peggiora subito.",
+     "behaviours": [
+      "Il gesto cambia, la pulizia no",
+      "Ultimo passo di appoggio corretto",
+      "Recupero rispettato"
+     ],
+     "caption": "Conclusione in regime di velocità",
+     "img": "img/giovanissimiB-w11-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "pulcini",
+   "catName": "Pulcini",
+   "year": "2016",
+   "day": "Lunedì",
+   "week": 12,
+   "page": 62,
+   "title": "Passaggio e ricezione sotto pressione, e verifica",
+   "ref": "FIGC-SGS · Modulo 4 · Lezione 12 «Passa e ricevi la palla» — passaggio e ricezione con pressione temporale; verifica degli apprendimenti del trimestre",
+   "objective": "Alla fine della seduta ogni bambino ha ripetuto e misurato i gesti del trimestre: guida, arresto, passaggio e conclusione.",
+   "motor": "Rapidità e velocità di movimento; precisione sotto pressione temporale.",
+   "materials": "12 palloni n.4 + 4 morbidi, 28 cinesini, 12 coni, 6 porticine, cronometro e taccuino",
+   "closing": "Compila la griglia di valutazione e restituisci a ogni bambino un miglioramento concreto che hai osservato in questi tre mesi.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Torello",
+     "minutes": 5,
+     "desc": "In un quadrato di 5 m per lato, quattro bambini all'esterno e uno al centro. Chi è al centro cerca di intercettare; chi sbaglia il passaggio o se lo fa intercettare prende il suo posto. Ogni dieci passaggi consecutivi si assegna una penalità al difensore.",
+     "variants": "Il difensore può toccare il corpo del possessore invece della palla; versione a tre con un lato libero da occupare per la ricezione.",
+     "error": "Passaggi affrettati e imprecisi per liberarsi in fretta.",
+     "behaviours": [
+      "Il primo tocco orienta lontano dal difensore",
+      "Passaggio rasoterra e teso",
+      "Muoversi di un passo per aprire la linea"
+     ],
+     "caption": "Passaggio e ricezione con un difensore",
+     "img": "img/pulcini-w12-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Gioco dei passaggi consecutivi",
+     "minutes": 5,
+     "desc": "Due squadre di quattro giocatori su due quadrati di 10 m. Tre attaccanti per squadra si confrontano con un avversario della squadra opposta: si eseguono passaggi spostandosi nell'angolo libero, in modo che chi ha la palla abbia sempre due soluzioni. Vince la squadra che in due minuti effettua più passaggi.",
+     "variants": "Ridurre il tempo a un minuto per aumentare la pressione.",
+     "error": "Fermarsi negli angoli senza muoversi.",
+     "behaviours": [
+      "Chi non ha la palla si sposta per offrire l'angolo libero",
+      "Due soluzioni sempre disponibili: è la regola del gioco",
+      "Precisione anche con la fretta"
+     ],
+     "caption": "Il quadrato di smarcamento",
+     "img": "img/pulcini-w12-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Prove di verifica",
+     "minutes": 5,
+     "desc": "Si chiude con le quattro prove misurate descritte nella griglia in fondo al documento: conduzione a serpentina cronometrata, palleggi in 30 secondi, passaggi precisi in porticina e conduzione con conclusione. Due tentativi a testa, si registra il migliore.",
+     "variants": "Ripetere la prova di conduzione con la palla morbida a piedi scalzi, come nella settimana 1.",
+     "error": "Trasformare la verifica in una classifica.",
+     "behaviours": [
+      "Nessuna gara fra bambini: ognuno confronta i propri numeri con quelli di settembre",
+      "Si annota tutto sul taccuino, senza leggere i tempi ad alta voce",
+      "Chiusura positiva per tutti"
+     ],
+     "caption": "Test tecnici di fine trimestre",
+     "img": "img/pulcini-w12-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiB",
+   "catName": "Esordienti B",
+   "year": "2015",
+   "day": "Lunedì",
+   "week": 12,
+   "page": 63,
+   "title": "Verifica del trimestre",
+   "ref": "FIGC-SGS · Sintesi del trimestre — verifica degli apprendimenti tecnici e delle prove misurate",
+   "objective": "Alla fine della seduta ogni ragazzo ha misurato guida, palleggio, passaggio e conclusione, e li ha confrontati con l'inizio del ciclo.",
+   "motor": "Circuito con cambi rapidi di compito.",
+   "materials": "12 palloni n.4 + 4 morbidi, 1 nastro, 30 cinesini, 14 coni, 6 porticine, cronometro e taccuino",
+   "closing": "Compila la griglia di valutazione e definisci con ciascuno un obiettivo per il trimestre successivo.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Circuito tecnico a quattro stazioni",
+     "minutes": 5,
+     "desc": "Quattro stazioni da 45 secondi con rotazione al fischio: guida fra i coni; passaggio e ricezione a coppie; palleggio libero; conduzione e conclusione in porticina. Due giri completi.",
+     "variants": "Secondo giro cronometrato per stazione, come stimolo e non come gara.",
+     "error": "Trasformare il circuito in una corsa.",
+     "behaviours": [
+      "Un obiettivo per stazione, eseguito bene",
+      "Rotazione veloce, esecuzione calma",
+      "Una sola correzione per stazione"
+     ],
+     "caption": "Rotazione fra i gesti del trimestre",
+     "img": "img/esordientiB-w12-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Prove di verifica",
+     "minutes": 5,
+     "desc": "Le quattro prove descritte nella griglia in fondo al documento: conduzione a serpentina cronometrata, palleggi in 30 secondi, passaggi precisi in porticina, conduzione con conclusione. Due tentativi a testa, si registra il migliore.",
+     "variants": "Prova aggiuntiva con il piede debole obbligato.",
+     "error": "Guardare il cronometro invece della palla.",
+     "behaviours": [
+      "Controllo prima della velocità",
+      "Si annota tutto senza leggere i risultati ad alta voce",
+      "Ognuno si confronta con sé stesso"
+     ],
+     "caption": "Test tecnici misurati",
+     "img": "img/esordientiB-w12-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Calcio tennis: finale del torneo",
+     "minutes": 5,
+     "desc": "Si chiude con la finale del torneo interno di calcio tennis, poi riepilogo del trimestre e riscontro individuale a ciascun ragazzo su un progresso osservato.",
+     "variants": "Variante al volo per gli ultimi punti.",
+     "error": "Nessuno: qui si chiude in leggerezza.",
+     "behaviours": [
+      "Qualità del tocco fino all'ultimo scambio",
+      "Rotazione e battuta semplice",
+      "Chiusura positiva"
+     ],
+     "caption": "Chiusura del ciclo",
+     "img": "img/esordientiB-w12-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "esordientiA",
+   "catName": "Esordienti A",
+   "year": "2014",
+   "day": "Martedì",
+   "week": 12,
+   "page": 64,
+   "title": "Trasmissione in ambiente variabile e verifica",
+   "ref": "FIGC-SGS · Modulo 4 · Lezione 12 «Passa e ricevi in movimento» — colpire e ricevere in flessibilità didattica; verifica del trimestre",
+   "objective": "Alla fine della seduta il ragazzo trasmette e riceve in movimento in un ambiente che cambia in continuazione, e ha misurato i propri gesti.",
+   "motor": "Rapidità; adattamento a un ambiente didattico flessibile.",
+   "materials": "12 palloni n.4, 30 cinesini, 16 coni, 8 porticine, cronometro e taccuino",
+   "closing": "Compila la griglia e concorda con ciascuno un obiettivo tecnico personale per il ciclo successivo.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Porticine dislocate nel quadrato",
+     "minutes": 5,
+     "desc": "In uno spazio di circa 25 x 25 m sono dislocate porticine larghe 1,5 m. A coppie si eseguono passaggi e ricezioni in movimento attraverso le porticine non occupate in quell'istante da altre coppie. Il passaggio deve avvenire con palla rasoterra; la ricezione può essere uno stop sul posto oppure a seguire.",
+     "variants": "In dai e segui nella porticina; in dai e vai nella porticina; con tempo prestabilito.",
+     "error": "Puntare sempre alla stessa porticina comoda.",
+     "behaviours": [
+      "L'ambiente cambia in continuazione: si guarda prima di decidere",
+      "Passaggio rasoterra e preciso dentro la porticina",
+      "Ricezione a seguire quando c'è spazio"
+     ],
+     "caption": "Passaggi attraverso le porticine libere",
+     "img": "img/esordientiA-w12-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Passaggi e ricezione a tre in movimento",
+     "minutes": 5,
+     "desc": "Gruppi di tre disposti in linea a 5 m di distanza. I tre si passano la palla correndo in avanti e mantenendo le distanze. Il passaggio è in diagonale: l'esterno passa al centrale, che riceve con stop a seguire in avanti e la passa all'esterno opposto. Si percorrono almeno 25 m in andata e ritorno.",
+     "variants": "Passaggio in diagonale fra gli esterni; con cambio di posto.",
+     "error": "Rallentare per passare: si deve passare correndo.",
+     "behaviours": [
+      "Le distanze si mantengono: se si stringono, il gesto non riesce",
+      "Lo stop a seguire porta la palla avanti",
+      "Si comunica a voce"
+     ],
+     "caption": "Trasmissione in avanzamento",
+     "img": "img/esordientiA-w12-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Prove di verifica",
+     "minutes": 5,
+     "desc": "Le quattro prove misurate descritte nella griglia in fondo al documento: conduzione a serpentina cronometrata, palleggi in 30 secondi, passaggi precisi in porticina, conduzione con conclusione. Due tentativi a testa, si registra il migliore.",
+     "variants": "Prova aggiuntiva con il piede debole obbligato.",
+     "error": "Trasformare la verifica in una classifica.",
+     "behaviours": [
+      "Ognuno si confronta con i propri numeri di settembre",
+      "Si annota senza leggere i risultati ad alta voce",
+      "Chiusura positiva"
+     ],
+     "caption": "Test tecnici di fine trimestre",
+     "img": "img/esordientiA-w12-e3.png"
+    }
+   ]
+  },
+  {
+   "cat": "giovanissimiB",
+   "catName": "Giovanissimi B",
+   "year": "2013",
+   "day": "Martedì",
+   "week": 12,
+   "page": 65,
+   "title": "Verifica del trimestre",
+   "ref": "FIGC-SGS · Esordienti · Modulo 8 — verifica del trimestre e test tecnici di fine ciclo",
+   "objective": "Alla fine della seduta ogni ragazzo ha misurato guida, palleggio, passaggio e conclusione e li ha confrontati con l'inizio del ciclo.",
+   "motor": "Circuito con cambi rapidi di compito.",
+   "materials": "12 palloni n.4/5, 1 nastro, 32 cinesini, 18 coni, 8 porticine, cronometro e taccuino",
+   "closing": "Compila la griglia di valutazione e definisci con ciascuno un obiettivo tecnico personale per il trimestre successivo.",
+   "exercises": [
+    {
+     "n": 1,
+     "title": "Circuito tecnico a quattro stazioni",
+     "minutes": 5,
+     "desc": "Quattro stazioni da 45 secondi con rotazione al fischio: guida e finte fra i coni; calcio a parabola sopra il nastro; ricezione orientata e trasmissione; conduzione e conclusione. Due giri completi.",
+     "variants": "Secondo giro cronometrato per stazione, come stimolo.",
+     "error": "Trasformare il circuito in una corsa.",
+     "behaviours": [
+      "Un obiettivo per stazione",
+      "Rotazione veloce, esecuzione curata",
+      "Una sola correzione per stazione"
+     ],
+     "caption": "Rotazione fra i gesti del ciclo",
+     "img": "img/giovanissimiB-w12-e1.png"
+    },
+    {
+     "n": 2,
+     "title": "Prove di verifica",
+     "minutes": 5,
+     "desc": "Le quattro prove descritte nella griglia in fondo al documento: conduzione a serpentina cronometrata, palleggi in 30 secondi, passaggi precisi in porticina, conduzione con conclusione. Due tentativi a testa più una prova con il piede debole obbligato.",
+     "variants": "Aggiungere una prova di calcio a parabola dentro un quadrato di 10 x 10 m a 25 m.",
+     "error": "Trasformare la verifica in una classifica.",
+     "behaviours": [
+      "Ognuno si confronta con i propri numeri di inizio ciclo",
+      "Si annota senza leggere i risultati ad alta voce",
+      "Chiusura positiva"
+     ],
+     "caption": "Test tecnici misurati",
+     "img": "img/giovanissimiB-w12-e2.png"
+    },
+    {
+     "n": 3,
+     "title": "Finale del torneo di calcio tennis",
+     "minutes": 5,
+     "desc": "Si chiude con la finale del torneo interno, poi riepilogo del trimestre e riscontro individuale a ciascun ragazzo su un progresso osservato e su un obiettivo per il ciclo successivo.",
+     "variants": "Variante con tre colpi al volo obbligati.",
+     "error": "Nessuno: qui si chiude in leggerezza.",
+     "behaviours": [
+      "Qualità del tocco fino all'ultimo scambio",
+      "Rotazione e battuta semplice",
+      "Chiusura serena"
+     ],
+     "caption": "Chiusura del ciclo",
+     "img": "img/giovanissimiB-w12-e3.png"
+    }
+   ]
+  }
+ ]
+}

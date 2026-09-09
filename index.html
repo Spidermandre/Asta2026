@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="it">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#1a7340">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="Tecnica">
+<link rel="manifest" href="manifest.json">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<title>Tecnica di base · Piano trimestrale</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="top">
+  <div class="top-row">
+    <div class="brand">
+      <div class="brand-title">Tecnica di base</div>
+      <div class="brand-sub">12 settimane · 48 sedute · 144 esercizi</div>
+    </div>
+    <button class="icon-btn" id="btn-info" aria-label="Informazioni">i</button>
+  </div>
+  <div class="cats" id="cats"></div>
+  <div class="weeks" id="weeks"></div>
+</header>
+
+<main id="view" class="view"></main>
+
+<nav class="tabs" id="tabs">
+  <button data-tab="seduta" class="active"><span class="ico">📋</span>Seduta</button>
+  <button data-tab="timer"><span class="ico">⏱️</span>Timer</button>
+  <button data-tab="materiale"><span class="ico">🎒</span>Materiale</button>
+  <button data-tab="prove"><span class="ico">📈</span>Prove</button>
+</nav>
+
+<div id="toast" class="toast" hidden></div>
+
+<script src="app.js"></script>
+</body>
+</html>
