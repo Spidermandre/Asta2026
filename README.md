@@ -18,7 +18,10 @@ Due sole schermate, nessun menu.
    toglie. Il conteggio vale per la categoria scelta e resta salvato sul telefono.
 
 Il timer tiene lo schermo acceso mentre va, si mette in pausa e riprende da dove
-era. Un esercizio alla volta: avviarne uno ferma il precedente.
+era. Il tasto ↺ accanto al conto alla rovescia lo riporta a 5 minuti, anche
+mentre sta scorrendo, e toglie il segno di esercizio concluso; resta spento
+finché non c'è nulla da azzerare. Un esercizio alla volta: avviarne uno ferma il
+precedente.
 
 L'app funziona offline dopo la prima apertura e si può aggiungere alla schermata
 Home come una normale app.

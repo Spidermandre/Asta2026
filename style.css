@@ -90,14 +90,15 @@ p { margin: 0; }
 .card .desc { padding: 12px 14px 14px; font-size: 15.5px; }
 
 /* Timer dell'esercizio */
-.timer { display: flex; align-items: center; gap: 14px; padding: 12px 14px;
-  border-top: 1px solid var(--line); background: #fafbfc; }
+.timer { position: relative; display: flex; align-items: center; gap: 14px;
+  padding: 12px 14px 15px; border-top: 1px solid var(--line); background: #fafbfc; }
 .timer.run { background: var(--arancio-chiaro); }
-.clock { font-size: 40px; font-weight: 800; font-variant-numeric: tabular-nums;
-  letter-spacing: -1px; color: var(--navy); min-width: 118px; }
+.clock { flex: 1; font-size: 40px; font-weight: 800; font-variant-numeric: tabular-nums;
+  letter-spacing: -1px; color: var(--navy); }
 .timer.run .clock { color: var(--arancio-scuro); }
 .timer.warn .clock { color: #b3200e; }
-.bar { flex: 1; height: 8px; background: #e3e7ea; border-radius: 999px; overflow: hidden; }
+/* La barra di avanzamento corre lungo tutto il bordo inferiore del blocco. */
+.bar { position: absolute; left: 0; right: 0; bottom: 0; height: 5px; background: #e6eaee; }
 .bar > i { display: block; height: 100%; width: 0; background: var(--blu); transition: width .3s linear; }
 .timer.run .bar { background: #f3ddbe; }
 .timer.run .bar > i { background: var(--arancio); }
@@ -105,6 +106,10 @@ p { margin: 0; }
   color: var(--navy); font-size: 26px; display: flex; align-items: center; justify-content: center;
   box-shadow: 0 2px 8px rgba(247, 148, 30, .45); }
 .play.pause { background: var(--navy); color: #fff; box-shadow: none; }
+.reset { flex: 0 0 auto; width: 48px; height: 48px; border-radius: 50%; font-size: 24px;
+  color: var(--navy); background: #eceff3; display: flex; align-items: center; justify-content: center; }
+.timer.run .reset { background: #f6e3c8; }
+.reset:disabled { opacity: .3; }
 
 .tip { color: var(--muted); font-size: 14px; text-align: center; margin: 18px 0 8px; }
 .link { display: block; text-align: center; color: var(--blu-scuro); font-size: 14px;

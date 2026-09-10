@@ -131,6 +131,13 @@
     disegnaTimer(card, ex, restanti, true);
   }
 
+  function azzera(card, ex) {
+    if (timer && timer.card === card) fermaTimer();
+    card.dataset.rest = '';
+    card.classList.remove('done');
+    disegnaTimer(card, ex, ex.minutes * 60, false);
+  }
+
   function disegnaTimer(card, ex, restanti, attivo) {
     var totale = ex.minutes * 60;
     var box = card.querySelector('.timer');
@@ -141,6 +148,9 @@
     b.className = 'play' + (attivo ? ' pause' : '');
     b.textContent = attivo ? '❚❚' : '▶';
     b.setAttribute('aria-label', attivo ? 'Metti in pausa' : 'Avvia ' + ex.minutes + ' minuti');
+    // Niente da azzerare se il timer è intatto: il tasto resta spento.
+    box.querySelector('.reset').disabled =
+      !attivo && restanti === totale && !card.classList.contains('done');
   }
 
   // ---------- Schermata 1: scelta della seduta ----------
@@ -242,7 +252,9 @@
         '" alt="Schema: ' + esc(ex.caption || ex.title) + '"></figure>' +
         '<p class="desc">' + esc(ex.desc) + '</p>' +
         '<div class="timer"><button class="play">▶</button>' +
-        '<span class="clock"></span><span class="bar"><i></i></span></div>' +
+        '<span class="clock"></span>' +
+        '<button class="reset" aria-label="Azzera il timer">↺</button>' +
+        '<span class="bar"><i></i></span></div>' +
         '</div>');
       card.querySelector('.play').onclick = function () {
         if (timer && timer.card === card) {
@@ -252,6 +264,7 @@
           avviaTimer(card, ex);
         }
       };
+      card.querySelector('.reset').onclick = function () { azzera(card, ex); };
       disegnaTimer(card, ex, ex.minutes * 60, false);
       box.appendChild(card);
     });
