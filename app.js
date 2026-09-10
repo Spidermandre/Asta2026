@@ -19,6 +19,17 @@
   function leggi(k) { try { return localStorage.getItem('tecnica.' + k); } catch (e) { return null; } }
   function scrivi(k, v) { try { localStorage.setItem('tecnica.' + k, v); } catch (e) { /* niente */ } }
 
+  // Settimane già fatte, una voce per categoria e settimana: { "pulcini-1": true }
+  function fatte() {
+    try { return JSON.parse(leggi('fatte') || '{}'); } catch (e) { return {}; }
+  }
+  function eFatta(week) { return fatte()[cat + '-' + week] === true; }
+  function segna(week, valore) {
+    var f = fatte();
+    if (valore) f[cat + '-' + week] = true; else delete f[cat + '-' + week];
+    scrivi('fatte', JSON.stringify(f));
+  }
+
   function esc(s) {
     return String(s == null ? '' : s).replace(/[&<>"']/g, function (c) {
       return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
@@ -141,7 +152,8 @@
       '<div class="sub">Mese 1 · quattro sedute da 20 minuti</div></div></div>' +
       '<div class="wrap">' +
       '<div class="section">Categoria</div><div class="pick"></div>' +
-      '<div class="section">Scegli la seduta</div><div class="lista"></div>' +
+      '<div class="section due"><span>Scegli la seduta</span><span class="conta"></span></div>' +
+      '<div class="lista"></div>' +
       '<a class="link" href="docs/Piano_trimestrale_tecnica_di_base.pdf" target="_blank" rel="noopener">Apri il piano completo in PDF</a>' +
       '</div></div>');
 
@@ -154,16 +166,42 @@
     });
 
     var lista = v.querySelector('.lista');
+    var conta = v.querySelector('.conta');
+    function aggiornaConta() {
+      var n = dati.weeks.filter(function (w) { return eFatta(w.week); }).length;
+      conta.textContent = n ? n + ' di ' + dati.weeks.length + ' fatte' : '';
+    }
+
     dati.weeks.forEach(function (w) {
       var s = seduta(w.week);
       if (!s) return;
-      var b = nodo('<button class="week">' +
+      var riga = nodo('<div class="week">' +
+        '<button class="open">' +
         '<span class="n">SETT<b>' + w.week + '</b></span>' +
         '<span class="txt"><b>' + esc(s.title) + '</b><span>' + esc(s.day) + ' · ' + esc(c.name) + '</span></span>' +
-        '<span class="go">›</span></button>');
-      b.onclick = function () { schermataSeduta(w.week); };
-      lista.appendChild(b);
+        '</button>' +
+        '<button class="check"><span class="ring"></span></button>' +
+        '</div>');
+      var tasto = riga.querySelector('.check');
+
+      function mostra() {
+        var fatta = eFatta(w.week);
+        riga.classList.toggle('done', fatta);
+        tasto.innerHTML = fatta ? '✅' : '<span class="ring"></span>';
+        tasto.setAttribute('aria-pressed', fatta ? 'true' : 'false');
+        tasto.setAttribute('aria-label', (fatta ? 'Togli il segno dalla settimana ' : 'Segna come fatta la settimana ') + w.week);
+      }
+      tasto.onclick = function () {
+        segna(w.week, !eFatta(w.week));
+        mostra();
+        aggiornaConta();
+      };
+      riga.querySelector('.open').onclick = function () { schermataSeduta(w.week); };
+
+      mostra();
+      lista.appendChild(riga);
     });
+    aggiornaConta();
 
     app.replaceChildren(v);
     window.scrollTo(0, 0);

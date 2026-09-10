@@ -13,6 +13,9 @@ Due sole schermate, nessun menu.
 2. **Fai la seduta.** Vedi i tre esercizi in fila. Ogni esercizio mostra lo
    schema, due righe di descrizione e il suo timer da 5 minuti. Tocchi play e
    parte. A fine tempo suona e vibra, e l'esercizio resta segnato come fatto.
+3. **Segna la settimana.** Nell'elenco, il cerchio a destra di ogni settimana
+   la marca come fatta con una spunta verde. Toccandolo di nuovo il segno si
+   toglie. Il conteggio vale per la categoria scelta e resta salvato sul telefono.
 
 Il timer tiene lo schermo acceso mentre va, si mette in pausa e riprende da dove
 era. Un esercizio alla volta: avviarne uno ferma il precedente.
