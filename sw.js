@@ -1,7 +1,7 @@
 /* Service worker: rende l'app utilizzabile offline in campo. */
-const VERSION = 'tecnica-v1';
+const VERSION = 'tecnica-m1-v2';
 const CORE = [
-  './', './index.html', './style.css', './app.js', './data/plan.json', './manifest.json',
+  './', './index.html', './style.css', './app.js', './data/mese1.json', './manifest.json',
   './icons/icon-192.png', './icons/icon-512.png'
 ];
 
@@ -9,12 +9,12 @@ self.addEventListener('install', (e) => {
   e.waitUntil(
     caches.open(VERSION).then(async (cache) => {
       await cache.addAll(CORE);
-      // Pre-carica i diagrammi in background (non blocca l'installazione).
+      // Pre-carica i diagrammi: sono pochi e servono in campo, spesso senza rete.
       try {
-        const plan = await (await fetch('./data/plan.json')).json();
-        const imgs = [];
-        plan.sessions.forEach(s => s.exercises.forEach(ex => imgs.push('./' + ex.img)));
-        await Promise.allSettled(imgs.map(u => cache.add(u)));
+        const dati = await (await fetch('./data/mese1.json')).json();
+        const img = [];
+        dati.sessions.forEach(s => s.exercises.forEach(ex => img.push('./' + ex.img)));
+        await Promise.allSettled(img.map(u => cache.add(u)));
       } catch (err) { /* offline al primo avvio: le immagini si caricano dopo */ }
     })
   );

@@ -1,49 +1,57 @@
-# Tecnica di base · Piano trimestrale (webapp)
+# Tecnica di base · Mese 1 (webapp)
 
-Webapp per smartphone che rende fruibile in campo il documento
+Webapp per smartphone che porta in campo il primo mese del
 [Piano trimestrale di tecnica di base](docs/Piano_trimestrale_tecnica_di_base.pdf):
-12 settimane, 48 sedute, 144 esercizi per Pulcini 2016, Esordienti B 2015,
+4 settimane, 16 sedute, 48 esercizi per Pulcini 2016, Esordienti B 2015,
 Esordienti A 2014 e Giovanissimi B 2013.
 
-## Cosa fa
+## Come si usa
 
-- **Seduta**: scegli categoria e settimana, leggi obiettivo, materiale, i tre
-  esercizi con diagramma, comportamenti privilegiati, varianti ed errore da correggere.
-- **Timer**: guida i 20 minuti della seduta (1' avvio, 5' esercizio 1, 1' cambio,
-  5' esercizio 2, 1' cambio, 5' esercizio 3, 2' chiusura) con suono e vibrazione ai
-  cambi, schermo sempre acceso e gestione dei due turni per sottogruppo.
-- **Materiale**: cosa portare in campo lunedì e martedì per la settimana scelta,
-  più la checklist della borsa del trimestre.
-- **Prove**: descrizione delle quattro prove misurate, cronometro e griglia di
-  valutazione per categoria (settimana 1 vs settimana 12), salvata sul telefono.
-- **Info** (pulsante «i»): struttura, regole di conduzione, piedi scalzi,
-  traguardi di fine trimestre e link al PDF completo.
+Due sole schermate, nessun menu.
 
-Funziona offline dopo la prima apertura (service worker) e si può aggiungere
-alla schermata Home come app.
+1. **Scegli la seduta.** Tocchi la categoria, poi la settimana.
+2. **Fai la seduta.** Vedi i tre esercizi in fila. Ogni esercizio mostra lo
+   schema, due righe di descrizione e il suo timer da 5 minuti. Tocchi play e
+   parte. A fine tempo suona e vibra, e l'esercizio resta segnato come fatto.
+
+Il timer tiene lo schermo acceso mentre va, si mette in pausa e riprende da dove
+era. Un esercizio alla volta: avviarne uno ferma il precedente.
+
+L'app funziona offline dopo la prima apertura e si può aggiungere alla schermata
+Home come una normale app.
 
 ## Come pubblicarla
 
-L'app è statica: basta servire la cartella del repository.
+È un sito statico, basta servire la cartella del repository.
 
-- **GitHub Pages**: Settings → Pages → Source «Deploy from a branch», branch e
-  cartella `/ (root)`. L'app sarà su `https://<utente>.github.io/<repo>/`.
+- **GitHub Pages**: Settings → Pages → Source «Deploy from a branch», branch
+  predefinito e cartella `/ (root)`. L'app sarà su
+  `https://<utente>.github.io/<repo>/`.
 - **In locale**: `python3 -m http.server 8080` nella cartella del repo, poi apri
   `http://localhost:8080` dal telefono sulla stessa rete.
 
 ## Struttura
 
 ```
-index.html      pagina unica
-app.js          logica (viste, timer, griglia)
-style.css       stile mobile-first
-data/plan.json  48 sedute e 144 esercizi estratti dal PDF
-img/            diagrammi degli esercizi (ritagliati dal PDF)
-docs/           il PDF originale
-manifest.json   installazione come app
-sw.js           uso offline
+index.html         pagina unica
+app.js             logica: due schermate e il timer di ogni esercizio
+style.css          stile mobile-first
+data/mese1.json    16 sedute e 48 esercizi del primo mese
+img/               schemi degli esercizi, ritagliati dal PDF
+docs/              il PDF del piano completo
+tools/genera_dati.py  rigenera data/ e img/ dal PDF
+manifest.json      installazione come app
+sw.js              uso offline
 ```
 
-I dati in `data/plan.json` e le immagini in `img/` sono generati automaticamente
-dal PDF; per aggiornarli basta rigenerare il file a partire da una nuova versione
-del documento.
+## Rigenerare i dati
+
+I contenuti non si scrivono a mano: si estraggono dal PDF.
+
+```bash
+pip install pymupdf
+python3 tools/genera_dati.py docs/Piano_trimestrale_tecnica_di_base.pdf
+```
+
+Per aggiungere i mesi successivi basta cambiare `SETTIMANE` in cima allo script
+(per esempio `range(1, 9)` per i primi due mesi) e rilanciarlo.
