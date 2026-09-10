@@ -47,6 +47,22 @@ manifest.json      installazione come app
 sw.js              uso offline
 ```
 
+## L'icona dell'app
+
+L'icona è la scritta ASTA su uno sfondo in gradiente dal blu all'arancio,
+generata da `tools/genera_icone.py`.
+
+Per usare il logo vero della società al posto della scritta, salva il logo come
+`assets/logo-asta.png` (PNG con sfondo trasparente, quadrato o quasi) e rilancia:
+
+```bash
+pip install pillow
+python3 tools/genera_icone.py
+```
+
+Le icone sono a pieno campo e senza trasparenze, come richiesto dalle app
+installabili: gli angoli li arrotonda il sistema operativo.
+
 ## Rigenerare i dati
 
 I contenuti non si scrivono a mano: si estraggono dal PDF.
