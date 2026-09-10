@@ -43,6 +43,7 @@ data/mese1.json    16 sedute e 48 esercizi del primo mese
 img/               schemi degli esercizi, ritagliati dal PDF
 docs/              il PDF del piano completo
 tools/genera_dati.py  rigenera data/ e img/ dal PDF
+tools/genera_icone.py rigenera le icone dell'app
 manifest.json      installazione come app
 sw.js              uso offline
 ```
@@ -63,14 +64,21 @@ python3 tools/genera_icone.py
 Le icone sono a pieno campo e senza trasparenze, come richiesto dalle app
 installabili: gli angoli li arrotonda il sistema operativo.
 
+L'interfaccia usa gli stessi colori: blu per la struttura, arancio per il
+pulsante di avvio e per il timer in corsa.
+
 ## Rigenerare i dati
 
 I contenuti non si scrivono a mano: si estraggono dal PDF.
 
 ```bash
-pip install pymupdf
+pip install pymupdf pillow
 python3 tools/genera_dati.py docs/Piano_trimestrale_tecnica_di_base.pdf
 ```
+
+Lo script ritaglia gli schemi dal PDF e porta il fondo verde del riquadro
+sull'azzurro dell'app. I colori dei disegni (coni, casacche, frecce) restano
+quelli originali.
 
 Per aggiungere i mesi successivi basta cambiare `SETTIMANE` in cima allo script
 (per esempio `range(1, 9)` per i primi due mesi) e rilanciarlo.

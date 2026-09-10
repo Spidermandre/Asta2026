@@ -1,10 +1,12 @@
 """Genera data/mese1.json e i diagrammi in img/ a partire dal PDF del piano.
 
 Uso:  python3 tools/genera_dati.py docs/Piano_trimestrale_tecnica_di_base.pdf
-Richiede: pip install pymupdf
+Richiede: pip install pymupdf pillow
 """
 import json, os, re, sys
+
 import pymupdf
+from PIL import Image
 
 PDF = sys.argv[1] if len(sys.argv) > 1 else 'docs/Piano_trimestrale_tecnica_di_base.pdf'
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -51,6 +53,21 @@ def accorcia(testo, minlen=110, maxlen=260, hardmax=320):
         if taglio > minlen:
             out = out[:taglio]
     return out.strip().rstrip(',;:')
+
+
+def azzurra(img):
+    """Porta il fondo verde del riquadro sull'azzurro, in tinta con l'app.
+
+    Tocca solo i verdi chiari e slavati dello sfondo: frecce, coni e casacche
+    verdi dei disegni sono saturi e restano come sono. Sui grigi non cambia nulla.
+    """
+    fuori = []
+    for r, g, b in img.getdata():
+        chiaro = min(r, g, b) >= 140 and max(r, g, b) - min(r, g, b) <= 45
+        fuori.append((b, (r + b) // 2, g) if chiaro and g >= r and g >= b else (r, g, b))
+    out = Image.new('RGB', img.size)
+    out.putdata(fuori)
+    return out
 
 
 def leggi_settimana(page, dati):
@@ -141,7 +158,8 @@ def leggi_seduta(page, dati):
                and d['rect'].width > 150 and y0 < d['rect'].y0 < y1]
         clip = box[0] if box else pymupdf.Rect(40, y0 + 12, 224, min(y1 - 6, fondo - 6))
         nome = f'{cat}-w{settimana:02d}-e{n}.png'
-        page.get_pixmap(matrix=pymupdf.Matrix(2.2, 2.2), clip=clip, alpha=False)\
+        pix = page.get_pixmap(matrix=pymupdf.Matrix(2.2, 2.2), clip=clip, alpha=False)
+        azzurra(Image.frombytes('RGB', (pix.width, pix.height), pix.samples))\
             .save(os.path.join(IMG, nome))
         S['exercises'].append({'n': int(n), 'title': titolo.strip(), 'minutes': 5,
                                'caption': join(didascalia),

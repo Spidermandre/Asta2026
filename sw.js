@@ -1,5 +1,5 @@
 /* Service worker: rende l'app utilizzabile offline in campo. */
-const VERSION = 'tecnica-m1-v3';
+const VERSION = 'tecnica-m1-v4';
 const CORE = [
   './', './index.html', './style.css', './app.js', './data/mese1.json', './manifest.json',
   './icons/icon-192.png', './icons/icon-512.png'
